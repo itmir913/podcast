@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
-        <title>일본어 문법 무작정 따라하기(해설강의)</title>
+        <title>일본어 문법 무작정 따라하기(강의)</title>
         <link>https://www.gilbut.co.kr/book/view?bookcode=BN003602</link>
         <language>ko-kr</language>
         <itunes:author>길벗 이지톡</itunes:author>
@@ -19,8 +19,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L01-01</itunes:summary>
                     <description>L01-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L01-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L01-01.MP3" type="audio/mpeg"/>
                     <guid>L01-01</guid>
                 </item>
         
@@ -31,8 +30,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L01-02</itunes:summary>
                     <description>L01-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L01-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L01-02.MP3" type="audio/mpeg"/>
                     <guid>L01-02</guid>
                 </item>
         
@@ -43,8 +41,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L01-03</itunes:summary>
                     <description>L01-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L01-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L01-03.MP3" type="audio/mpeg"/>
                     <guid>L01-03</guid>
                 </item>
         
@@ -55,8 +52,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L01-04</itunes:summary>
                     <description>L01-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L01-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L01-04.MP3" type="audio/mpeg"/>
                     <guid>L01-04</guid>
                 </item>
         
@@ -67,8 +63,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L01-05</itunes:summary>
                     <description>L01-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L01-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L01-05.MP3" type="audio/mpeg"/>
                     <guid>L01-05</guid>
                 </item>
         
@@ -79,8 +74,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L02-01</itunes:summary>
                     <description>L02-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L02-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L02-01.MP3" type="audio/mpeg"/>
                     <guid>L02-01</guid>
                 </item>
         
@@ -91,8 +85,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L02-02</itunes:summary>
                     <description>L02-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L02-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L02-02.MP3" type="audio/mpeg"/>
                     <guid>L02-02</guid>
                 </item>
         
@@ -103,8 +96,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L02-03</itunes:summary>
                     <description>L02-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L02-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L02-03.MP3" type="audio/mpeg"/>
                     <guid>L02-03</guid>
                 </item>
         
@@ -115,8 +107,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L02-04</itunes:summary>
                     <description>L02-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L02-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L02-04.MP3" type="audio/mpeg"/>
                     <guid>L02-04</guid>
                 </item>
         
@@ -127,8 +118,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L03-01</itunes:summary>
                     <description>L03-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L03-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L03-01.MP3" type="audio/mpeg"/>
                     <guid>L03-01</guid>
                 </item>
         
@@ -139,8 +129,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L03-02</itunes:summary>
                     <description>L03-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L03-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L03-02.MP3" type="audio/mpeg"/>
                     <guid>L03-02</guid>
                 </item>
         
@@ -151,8 +140,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L03-03</itunes:summary>
                     <description>L03-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L03-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L03-03.MP3" type="audio/mpeg"/>
                     <guid>L03-03</guid>
                 </item>
         
@@ -163,8 +151,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L03-04</itunes:summary>
                     <description>L03-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L03-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L03-04.MP3" type="audio/mpeg"/>
                     <guid>L03-04</guid>
                 </item>
         
@@ -175,8 +162,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L03-05</itunes:summary>
                     <description>L03-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L03-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L03-05.MP3" type="audio/mpeg"/>
                     <guid>L03-05</guid>
                 </item>
         
@@ -187,8 +173,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L03-06</itunes:summary>
                     <description>L03-06</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L03-06.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L03-06.MP3" type="audio/mpeg"/>
                     <guid>L03-06</guid>
                 </item>
         
@@ -199,8 +184,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L04-01</itunes:summary>
                     <description>L04-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L04-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L04-01.MP3" type="audio/mpeg"/>
                     <guid>L04-01</guid>
                 </item>
         
@@ -211,8 +195,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L04-02</itunes:summary>
                     <description>L04-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L04-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L04-02.MP3" type="audio/mpeg"/>
                     <guid>L04-02</guid>
                 </item>
         
@@ -223,8 +206,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L04-03</itunes:summary>
                     <description>L04-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L04-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L04-03.MP3" type="audio/mpeg"/>
                     <guid>L04-03</guid>
                 </item>
         
@@ -235,8 +217,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L04-04</itunes:summary>
                     <description>L04-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L04-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L04-04.MP3" type="audio/mpeg"/>
                     <guid>L04-04</guid>
                 </item>
         
@@ -247,8 +228,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L04-05</itunes:summary>
                     <description>L04-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L04-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L04-05.MP3" type="audio/mpeg"/>
                     <guid>L04-05</guid>
                 </item>
         
@@ -259,8 +239,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L05-01</itunes:summary>
                     <description>L05-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L05-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L05-01.MP3" type="audio/mpeg"/>
                     <guid>L05-01</guid>
                 </item>
         
@@ -271,8 +250,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L05-02</itunes:summary>
                     <description>L05-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L05-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L05-02.MP3" type="audio/mpeg"/>
                     <guid>L05-02</guid>
                 </item>
         
@@ -283,8 +261,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L05-03</itunes:summary>
                     <description>L05-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L05-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L05-03.MP3" type="audio/mpeg"/>
                     <guid>L05-03</guid>
                 </item>
         
@@ -295,8 +272,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L05-04</itunes:summary>
                     <description>L05-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L05-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L05-04.MP3" type="audio/mpeg"/>
                     <guid>L05-04</guid>
                 </item>
         
@@ -307,8 +283,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L05-05</itunes:summary>
                     <description>L05-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L05-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L05-05.MP3" type="audio/mpeg"/>
                     <guid>L05-05</guid>
                 </item>
         
@@ -319,8 +294,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L06-01</itunes:summary>
                     <description>L06-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L06-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L06-01.MP3" type="audio/mpeg"/>
                     <guid>L06-01</guid>
                 </item>
         
@@ -331,8 +305,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L06-02</itunes:summary>
                     <description>L06-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L06-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L06-02.MP3" type="audio/mpeg"/>
                     <guid>L06-02</guid>
                 </item>
         
@@ -343,8 +316,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L06-03</itunes:summary>
                     <description>L06-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L06-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L06-03.MP3" type="audio/mpeg"/>
                     <guid>L06-03</guid>
                 </item>
         
@@ -355,8 +327,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L06-04</itunes:summary>
                     <description>L06-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L06-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L06-04.MP3" type="audio/mpeg"/>
                     <guid>L06-04</guid>
                 </item>
         
@@ -367,8 +338,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L06-05</itunes:summary>
                     <description>L06-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L06-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L06-05.MP3" type="audio/mpeg"/>
                     <guid>L06-05</guid>
                 </item>
         
@@ -379,8 +349,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L06-06</itunes:summary>
                     <description>L06-06</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L06-06.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L06-06.MP3" type="audio/mpeg"/>
                     <guid>L06-06</guid>
                 </item>
         
@@ -391,8 +360,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L07-01</itunes:summary>
                     <description>L07-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L07-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L07-01.MP3" type="audio/mpeg"/>
                     <guid>L07-01</guid>
                 </item>
         
@@ -403,8 +371,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L07-02</itunes:summary>
                     <description>L07-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L07-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L07-02.MP3" type="audio/mpeg"/>
                     <guid>L07-02</guid>
                 </item>
         
@@ -415,8 +382,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L07-03</itunes:summary>
                     <description>L07-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L07-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L07-03.MP3" type="audio/mpeg"/>
                     <guid>L07-03</guid>
                 </item>
         
@@ -427,8 +393,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L07-04</itunes:summary>
                     <description>L07-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L07-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L07-04.MP3" type="audio/mpeg"/>
                     <guid>L07-04</guid>
                 </item>
         
@@ -439,8 +404,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L07-05</itunes:summary>
                     <description>L07-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L07-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L07-05.MP3" type="audio/mpeg"/>
                     <guid>L07-05</guid>
                 </item>
         
@@ -451,8 +415,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L08-01</itunes:summary>
                     <description>L08-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L08-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L08-01.MP3" type="audio/mpeg"/>
                     <guid>L08-01</guid>
                 </item>
         
@@ -463,8 +426,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L08-02</itunes:summary>
                     <description>L08-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L08-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L08-02.MP3" type="audio/mpeg"/>
                     <guid>L08-02</guid>
                 </item>
         
@@ -475,8 +437,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L08-03-01</itunes:summary>
                     <description>L08-03-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L08-03-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L08-03-01.MP3" type="audio/mpeg"/>
                     <guid>L08-03-01</guid>
                 </item>
         
@@ -487,8 +448,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L08-03-02</itunes:summary>
                     <description>L08-03-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L08-03-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L08-03-02.MP3" type="audio/mpeg"/>
                     <guid>L08-03-02</guid>
                 </item>
         
@@ -499,8 +459,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L08-03-03</itunes:summary>
                     <description>L08-03-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L08-03-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L08-03-03.MP3" type="audio/mpeg"/>
                     <guid>L08-03-03</guid>
                 </item>
         
@@ -511,8 +470,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L08-03-04</itunes:summary>
                     <description>L08-03-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L08-03-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L08-03-04.MP3" type="audio/mpeg"/>
                     <guid>L08-03-04</guid>
                 </item>
         
@@ -523,8 +481,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L08-04</itunes:summary>
                     <description>L08-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L08-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L08-04.MP3" type="audio/mpeg"/>
                     <guid>L08-04</guid>
                 </item>
         
@@ -535,8 +492,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L08-05</itunes:summary>
                     <description>L08-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L08-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L08-05.MP3" type="audio/mpeg"/>
                     <guid>L08-05</guid>
                 </item>
         
@@ -547,8 +503,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L09-01</itunes:summary>
                     <description>L09-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L09-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L09-01.MP3" type="audio/mpeg"/>
                     <guid>L09-01</guid>
                 </item>
         
@@ -559,8 +514,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L09-02</itunes:summary>
                     <description>L09-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L09-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L09-02.MP3" type="audio/mpeg"/>
                     <guid>L09-02</guid>
                 </item>
         
@@ -571,8 +525,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L09-03</itunes:summary>
                     <description>L09-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L09-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L09-03.MP3" type="audio/mpeg"/>
                     <guid>L09-03</guid>
                 </item>
         
@@ -583,8 +536,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L09-04</itunes:summary>
                     <description>L09-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L09-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L09-04.MP3" type="audio/mpeg"/>
                     <guid>L09-04</guid>
                 </item>
         
@@ -595,8 +547,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L10-01</itunes:summary>
                     <description>L10-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L10-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L10-01.MP3" type="audio/mpeg"/>
                     <guid>L10-01</guid>
                 </item>
         
@@ -607,8 +558,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L10-02</itunes:summary>
                     <description>L10-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L10-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L10-02.MP3" type="audio/mpeg"/>
                     <guid>L10-02</guid>
                 </item>
         
@@ -619,8 +569,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L10-03</itunes:summary>
                     <description>L10-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L10-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L10-03.MP3" type="audio/mpeg"/>
                     <guid>L10-03</guid>
                 </item>
         
@@ -631,8 +580,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L10-04</itunes:summary>
                     <description>L10-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L10-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L10-04.MP3" type="audio/mpeg"/>
                     <guid>L10-04</guid>
                 </item>
         
@@ -643,8 +591,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L11-01</itunes:summary>
                     <description>L11-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L11-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L11-01.MP3" type="audio/mpeg"/>
                     <guid>L11-01</guid>
                 </item>
         
@@ -655,8 +602,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L11-02</itunes:summary>
                     <description>L11-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L11-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L11-02.MP3" type="audio/mpeg"/>
                     <guid>L11-02</guid>
                 </item>
         
@@ -667,8 +613,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L11-03</itunes:summary>
                     <description>L11-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L11-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L11-03.MP3" type="audio/mpeg"/>
                     <guid>L11-03</guid>
                 </item>
         
@@ -679,8 +624,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L11-04</itunes:summary>
                     <description>L11-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L11-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L11-04.MP3" type="audio/mpeg"/>
                     <guid>L11-04</guid>
                 </item>
         
@@ -691,8 +635,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L12-01</itunes:summary>
                     <description>L12-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L12-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L12-01.MP3" type="audio/mpeg"/>
                     <guid>L12-01</guid>
                 </item>
         
@@ -703,8 +646,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L12-02</itunes:summary>
                     <description>L12-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L12-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L12-02.MP3" type="audio/mpeg"/>
                     <guid>L12-02</guid>
                 </item>
         
@@ -715,8 +657,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L12-03</itunes:summary>
                     <description>L12-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L12-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L12-03.MP3" type="audio/mpeg"/>
                     <guid>L12-03</guid>
                 </item>
         
@@ -727,8 +668,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L12-04</itunes:summary>
                     <description>L12-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L12-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L12-04.MP3" type="audio/mpeg"/>
                     <guid>L12-04</guid>
                 </item>
         
@@ -739,8 +679,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L13-01</itunes:summary>
                     <description>L13-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L13-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L13-01.MP3" type="audio/mpeg"/>
                     <guid>L13-01</guid>
                 </item>
         
@@ -751,8 +690,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L13-02</itunes:summary>
                     <description>L13-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L13-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L13-02.MP3" type="audio/mpeg"/>
                     <guid>L13-02</guid>
                 </item>
         
@@ -763,8 +701,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L13-03</itunes:summary>
                     <description>L13-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L13-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L13-03.MP3" type="audio/mpeg"/>
                     <guid>L13-03</guid>
                 </item>
         
@@ -775,8 +712,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L13-04</itunes:summary>
                     <description>L13-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L13-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L13-04.MP3" type="audio/mpeg"/>
                     <guid>L13-04</guid>
                 </item>
         
@@ -787,8 +723,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L14-01</itunes:summary>
                     <description>L14-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L14-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L14-01.MP3" type="audio/mpeg"/>
                     <guid>L14-01</guid>
                 </item>
         
@@ -799,8 +734,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L14-02</itunes:summary>
                     <description>L14-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L14-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L14-02.MP3" type="audio/mpeg"/>
                     <guid>L14-02</guid>
                 </item>
         
@@ -811,8 +745,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L14-03</itunes:summary>
                     <description>L14-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L14-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L14-03.MP3" type="audio/mpeg"/>
                     <guid>L14-03</guid>
                 </item>
         
@@ -823,8 +756,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L15-01</itunes:summary>
                     <description>L15-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L15-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L15-01.MP3" type="audio/mpeg"/>
                     <guid>L15-01</guid>
                 </item>
         
@@ -835,8 +767,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L15-02</itunes:summary>
                     <description>L15-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L15-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L15-02.MP3" type="audio/mpeg"/>
                     <guid>L15-02</guid>
                 </item>
         
@@ -847,8 +778,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L15-03</itunes:summary>
                     <description>L15-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L15-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L15-03.MP3" type="audio/mpeg"/>
                     <guid>L15-03</guid>
                 </item>
         
@@ -859,8 +789,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L15-04</itunes:summary>
                     <description>L15-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L15-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L15-04.MP3" type="audio/mpeg"/>
                     <guid>L15-04</guid>
                 </item>
         
@@ -871,8 +800,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L15-05</itunes:summary>
                     <description>L15-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L15-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L15-05.MP3" type="audio/mpeg"/>
                     <guid>L15-05</guid>
                 </item>
         
@@ -883,8 +811,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L15-06</itunes:summary>
                     <description>L15-06</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L15-06.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L15-06.MP3" type="audio/mpeg"/>
                     <guid>L15-06</guid>
                 </item>
         
@@ -895,8 +822,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L16-01</itunes:summary>
                     <description>L16-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L16-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L16-01.MP3" type="audio/mpeg"/>
                     <guid>L16-01</guid>
                 </item>
         
@@ -907,8 +833,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L16-02</itunes:summary>
                     <description>L16-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L16-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L16-02.MP3" type="audio/mpeg"/>
                     <guid>L16-02</guid>
                 </item>
         
@@ -919,8 +844,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L16-03</itunes:summary>
                     <description>L16-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L16-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L16-03.MP3" type="audio/mpeg"/>
                     <guid>L16-03</guid>
                 </item>
         
@@ -931,8 +855,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L16-04</itunes:summary>
                     <description>L16-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L16-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L16-04.MP3" type="audio/mpeg"/>
                     <guid>L16-04</guid>
                 </item>
         
@@ -943,8 +866,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L16-05</itunes:summary>
                     <description>L16-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L16-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L16-05.MP3" type="audio/mpeg"/>
                     <guid>L16-05</guid>
                 </item>
         
@@ -955,8 +877,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L16-06</itunes:summary>
                     <description>L16-06</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L16-06.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L16-06.MP3" type="audio/mpeg"/>
                     <guid>L16-06</guid>
                 </item>
         
@@ -967,8 +888,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L17-01</itunes:summary>
                     <description>L17-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L17-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L17-01.MP3" type="audio/mpeg"/>
                     <guid>L17-01</guid>
                 </item>
         
@@ -979,8 +899,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L17-02</itunes:summary>
                     <description>L17-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L17-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L17-02.MP3" type="audio/mpeg"/>
                     <guid>L17-02</guid>
                 </item>
         
@@ -991,8 +910,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L17-03</itunes:summary>
                     <description>L17-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L17-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L17-03.MP3" type="audio/mpeg"/>
                     <guid>L17-03</guid>
                 </item>
         
@@ -1003,8 +921,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L17-04</itunes:summary>
                     <description>L17-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L17-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L17-04.MP3" type="audio/mpeg"/>
                     <guid>L17-04</guid>
                 </item>
         
@@ -1015,8 +932,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L18-01</itunes:summary>
                     <description>L18-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L18-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L18-01.MP3" type="audio/mpeg"/>
                     <guid>L18-01</guid>
                 </item>
         
@@ -1027,8 +943,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L18-02</itunes:summary>
                     <description>L18-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L18-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L18-02.MP3" type="audio/mpeg"/>
                     <guid>L18-02</guid>
                 </item>
         
@@ -1039,8 +954,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L18-03</itunes:summary>
                     <description>L18-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L18-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L18-03.MP3" type="audio/mpeg"/>
                     <guid>L18-03</guid>
                 </item>
         
@@ -1051,8 +965,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L19-01</itunes:summary>
                     <description>L19-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L19-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L19-01.MP3" type="audio/mpeg"/>
                     <guid>L19-01</guid>
                 </item>
         
@@ -1063,8 +976,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L19-02</itunes:summary>
                     <description>L19-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L19-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L19-02.MP3" type="audio/mpeg"/>
                     <guid>L19-02</guid>
                 </item>
         
@@ -1075,8 +987,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L19-03</itunes:summary>
                     <description>L19-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L19-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L19-03.MP3" type="audio/mpeg"/>
                     <guid>L19-03</guid>
                 </item>
         
@@ -1087,8 +998,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L20-01</itunes:summary>
                     <description>L20-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L20-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L20-01.MP3" type="audio/mpeg"/>
                     <guid>L20-01</guid>
                 </item>
         
@@ -1099,8 +1009,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L21-01</itunes:summary>
                     <description>L21-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L21-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L21-01.MP3" type="audio/mpeg"/>
                     <guid>L21-01</guid>
                 </item>
         
@@ -1111,8 +1020,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L21-02</itunes:summary>
                     <description>L21-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L21-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L21-02.MP3" type="audio/mpeg"/>
                     <guid>L21-02</guid>
                 </item>
         
@@ -1123,8 +1031,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L21-03</itunes:summary>
                     <description>L21-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L21-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L21-03.MP3" type="audio/mpeg"/>
                     <guid>L21-03</guid>
                 </item>
         
@@ -1135,8 +1042,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L22-01</itunes:summary>
                     <description>L22-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L22-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L22-01.MP3" type="audio/mpeg"/>
                     <guid>L22-01</guid>
                 </item>
         
@@ -1147,8 +1053,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L22-02</itunes:summary>
                     <description>L22-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L22-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L22-02.MP3" type="audio/mpeg"/>
                     <guid>L22-02</guid>
                 </item>
         
@@ -1159,8 +1064,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L22-03</itunes:summary>
                     <description>L22-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L22-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L22-03.MP3" type="audio/mpeg"/>
                     <guid>L22-03</guid>
                 </item>
         
@@ -1171,8 +1075,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L22-04</itunes:summary>
                     <description>L22-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L22-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L22-04.MP3" type="audio/mpeg"/>
                     <guid>L22-04</guid>
                 </item>
         
@@ -1183,8 +1086,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L22-05</itunes:summary>
                     <description>L22-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L22-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L22-05.MP3" type="audio/mpeg"/>
                     <guid>L22-05</guid>
                 </item>
         
@@ -1195,8 +1097,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L23-01</itunes:summary>
                     <description>L23-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L23-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L23-01.MP3" type="audio/mpeg"/>
                     <guid>L23-01</guid>
                 </item>
         
@@ -1207,8 +1108,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L23-02</itunes:summary>
                     <description>L23-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L23-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L23-02.MP3" type="audio/mpeg"/>
                     <guid>L23-02</guid>
                 </item>
         
@@ -1219,8 +1119,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L23-03</itunes:summary>
                     <description>L23-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L23-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L23-03.MP3" type="audio/mpeg"/>
                     <guid>L23-03</guid>
                 </item>
         
@@ -1231,8 +1130,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L24-01</itunes:summary>
                     <description>L24-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L24-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L24-01.MP3" type="audio/mpeg"/>
                     <guid>L24-01</guid>
                 </item>
         
@@ -1243,8 +1141,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L24-02</itunes:summary>
                     <description>L24-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L24-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L24-02.MP3" type="audio/mpeg"/>
                     <guid>L24-02</guid>
                 </item>
         
@@ -1255,8 +1152,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L24-03</itunes:summary>
                     <description>L24-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L24-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L24-03.MP3" type="audio/mpeg"/>
                     <guid>L24-03</guid>
                 </item>
         
@@ -1267,8 +1163,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L25-01-01</itunes:summary>
                     <description>L25-01-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L25-01-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L25-01-01.MP3" type="audio/mpeg"/>
                     <guid>L25-01-01</guid>
                 </item>
         
@@ -1279,8 +1174,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L25-01-02</itunes:summary>
                     <description>L25-01-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L25-01-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L25-01-02.MP3" type="audio/mpeg"/>
                     <guid>L25-01-02</guid>
                 </item>
         
@@ -1291,8 +1185,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L25-01-03</itunes:summary>
                     <description>L25-01-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L25-01-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L25-01-03.MP3" type="audio/mpeg"/>
                     <guid>L25-01-03</guid>
                 </item>
         
@@ -1303,8 +1196,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L25-01-04</itunes:summary>
                     <description>L25-01-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L25-01-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L25-01-04.MP3" type="audio/mpeg"/>
                     <guid>L25-01-04</guid>
                 </item>
         
@@ -1315,8 +1207,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L25-02</itunes:summary>
                     <description>L25-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L25-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L25-02.MP3" type="audio/mpeg"/>
                     <guid>L25-02</guid>
                 </item>
         
@@ -1327,8 +1218,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L25-03</itunes:summary>
                     <description>L25-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L25-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L25-03.MP3" type="audio/mpeg"/>
                     <guid>L25-03</guid>
                 </item>
         
@@ -1339,8 +1229,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L25-04</itunes:summary>
                     <description>L25-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L25-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L25-04.MP3" type="audio/mpeg"/>
                     <guid>L25-04</guid>
                 </item>
         
@@ -1351,8 +1240,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L25-05</itunes:summary>
                     <description>L25-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L25-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L25-05.MP3" type="audio/mpeg"/>
                     <guid>L25-05</guid>
                 </item>
         
@@ -1363,8 +1251,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L25-06</itunes:summary>
                     <description>L25-06</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L25-06.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L25-06.MP3" type="audio/mpeg"/>
                     <guid>L25-06</guid>
                 </item>
         
@@ -1375,8 +1262,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L26-01</itunes:summary>
                     <description>L26-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-01.MP3" type="audio/mpeg"/>
                     <guid>L26-01</guid>
                 </item>
         
@@ -1387,8 +1273,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L26-02-01</itunes:summary>
                     <description>L26-02-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-02-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-02-01.MP3" type="audio/mpeg"/>
                     <guid>L26-02-01</guid>
                 </item>
         
@@ -1399,8 +1284,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L26-02-02-_1_</itunes:summary>
                     <description>L26-02-02-_1_</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-02-02-_1_.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-02-02-_1_.MP3" type="audio/mpeg"/>
                     <guid>L26-02-02-_1_</guid>
                 </item>
         
@@ -1411,8 +1295,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L26-02-02-_2_</itunes:summary>
                     <description>L26-02-02-_2_</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-02-02-_2_.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-02-02-_2_.MP3" type="audio/mpeg"/>
                     <guid>L26-02-02-_2_</guid>
                 </item>
         
@@ -1423,8 +1306,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L26-02-02-_3_</itunes:summary>
                     <description>L26-02-02-_3_</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-02-02-_3_.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-02-02-_3_.MP3" type="audio/mpeg"/>
                     <guid>L26-02-02-_3_</guid>
                 </item>
         
@@ -1435,8 +1317,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L26-02-03</itunes:summary>
                     <description>L26-02-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-02-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-02-03.MP3" type="audio/mpeg"/>
                     <guid>L26-02-03</guid>
                 </item>
         
@@ -1447,8 +1328,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L26-02-04</itunes:summary>
                     <description>L26-02-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-02-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-02-04.MP3" type="audio/mpeg"/>
                     <guid>L26-02-04</guid>
                 </item>
         
@@ -1459,8 +1339,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L26-03-01</itunes:summary>
                     <description>L26-03-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-03-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-03-01.MP3" type="audio/mpeg"/>
                     <guid>L26-03-01</guid>
                 </item>
         
@@ -1471,8 +1350,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L26-03-02</itunes:summary>
                     <description>L26-03-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-03-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-03-02.MP3" type="audio/mpeg"/>
                     <guid>L26-03-02</guid>
                 </item>
         
@@ -1483,8 +1361,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L26-03-03</itunes:summary>
                     <description>L26-03-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-03-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-03-03.MP3" type="audio/mpeg"/>
                     <guid>L26-03-03</guid>
                 </item>
         
@@ -1495,8 +1372,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L26-04-01</itunes:summary>
                     <description>L26-04-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-04-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-04-01.MP3" type="audio/mpeg"/>
                     <guid>L26-04-01</guid>
                 </item>
         
@@ -1507,8 +1383,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L26-04-02</itunes:summary>
                     <description>L26-04-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-04-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-04-02.MP3" type="audio/mpeg"/>
                     <guid>L26-04-02</guid>
                 </item>
         
@@ -1519,8 +1394,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L26-04-03</itunes:summary>
                     <description>L26-04-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-04-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-04-03.MP3" type="audio/mpeg"/>
                     <guid>L26-04-03</guid>
                 </item>
         
@@ -1531,8 +1405,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L26-04-04</itunes:summary>
                     <description>L26-04-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-04-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-04-04.MP3" type="audio/mpeg"/>
                     <guid>L26-04-04</guid>
                 </item>
         
@@ -1543,8 +1416,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L26-05-01-_1_</itunes:summary>
                     <description>L26-05-01-_1_</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-05-01-_1_.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-05-01-_1_.MP3" type="audio/mpeg"/>
                     <guid>L26-05-01-_1_</guid>
                 </item>
         
@@ -1555,8 +1427,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L26-05-01-_2_</itunes:summary>
                     <description>L26-05-01-_2_</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-05-01-_2_.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-05-01-_2_.MP3" type="audio/mpeg"/>
                     <guid>L26-05-01-_2_</guid>
                 </item>
         
@@ -1567,8 +1438,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L26-05-01-_3_</itunes:summary>
                     <description>L26-05-01-_3_</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-05-01-_3_.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-05-01-_3_.MP3" type="audio/mpeg"/>
                     <guid>L26-05-01-_3_</guid>
                 </item>
         
@@ -1579,8 +1449,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L26-05-02</itunes:summary>
                     <description>L26-05-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-05-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-05-02.MP3" type="audio/mpeg"/>
                     <guid>L26-05-02</guid>
                 </item>
         
@@ -1591,8 +1460,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L26-06-01</itunes:summary>
                     <description>L26-06-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-06-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-06-01.MP3" type="audio/mpeg"/>
                     <guid>L26-06-01</guid>
                 </item>
         
@@ -1603,8 +1471,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L26-06-02</itunes:summary>
                     <description>L26-06-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-06-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L26-06-02.MP3" type="audio/mpeg"/>
                     <guid>L26-06-02</guid>
                 </item>
         
@@ -1615,8 +1482,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-01</itunes:summary>
                     <description>L27-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-01.MP3" type="audio/mpeg"/>
                     <guid>L27-01</guid>
                 </item>
         
@@ -1627,8 +1493,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-02-01-_1_</itunes:summary>
                     <description>L27-02-01-_1_</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-02-01-_1_.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-02-01-_1_.MP3" type="audio/mpeg"/>
                     <guid>L27-02-01-_1_</guid>
                 </item>
         
@@ -1639,8 +1504,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-02-01-_2_</itunes:summary>
                     <description>L27-02-01-_2_</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-02-01-_2_.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-02-01-_2_.MP3" type="audio/mpeg"/>
                     <guid>L27-02-01-_2_</guid>
                 </item>
         
@@ -1651,8 +1515,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-02-01-_3_</itunes:summary>
                     <description>L27-02-01-_3_</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-02-01-_3_.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-02-01-_3_.MP3" type="audio/mpeg"/>
                     <guid>L27-02-01-_3_</guid>
                 </item>
         
@@ -1663,8 +1526,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-02-01-_4_</itunes:summary>
                     <description>L27-02-01-_4_</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-02-01-_4_.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-02-01-_4_.MP3" type="audio/mpeg"/>
                     <guid>L27-02-01-_4_</guid>
                 </item>
         
@@ -1675,8 +1537,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-02-02</itunes:summary>
                     <description>L27-02-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-02-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-02-02.MP3" type="audio/mpeg"/>
                     <guid>L27-02-02</guid>
                 </item>
         
@@ -1687,8 +1548,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-02-03</itunes:summary>
                     <description>L27-02-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-02-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-02-03.MP3" type="audio/mpeg"/>
                     <guid>L27-02-03</guid>
                 </item>
         
@@ -1699,8 +1559,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-03-01</itunes:summary>
                     <description>L27-03-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-03-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-03-01.MP3" type="audio/mpeg"/>
                     <guid>L27-03-01</guid>
                 </item>
         
@@ -1711,8 +1570,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-03-02-_1_</itunes:summary>
                     <description>L27-03-02-_1_</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-03-02-_1_.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-03-02-_1_.MP3" type="audio/mpeg"/>
                     <guid>L27-03-02-_1_</guid>
                 </item>
         
@@ -1723,8 +1581,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-03-02-_2_</itunes:summary>
                     <description>L27-03-02-_2_</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-03-02-_2_.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-03-02-_2_.MP3" type="audio/mpeg"/>
                     <guid>L27-03-02-_2_</guid>
                 </item>
         
@@ -1735,8 +1592,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-03-03</itunes:summary>
                     <description>L27-03-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-03-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-03-03.MP3" type="audio/mpeg"/>
                     <guid>L27-03-03</guid>
                 </item>
         
@@ -1747,8 +1603,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-03-04</itunes:summary>
                     <description>L27-03-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-03-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-03-04.MP3" type="audio/mpeg"/>
                     <guid>L27-03-04</guid>
                 </item>
         
@@ -1759,8 +1614,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-04-01</itunes:summary>
                     <description>L27-04-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-04-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-04-01.MP3" type="audio/mpeg"/>
                     <guid>L27-04-01</guid>
                 </item>
         
@@ -1771,8 +1625,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-04-02</itunes:summary>
                     <description>L27-04-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-04-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-04-02.MP3" type="audio/mpeg"/>
                     <guid>L27-04-02</guid>
                 </item>
         
@@ -1783,8 +1636,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-04-03</itunes:summary>
                     <description>L27-04-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-04-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-04-03.MP3" type="audio/mpeg"/>
                     <guid>L27-04-03</guid>
                 </item>
         
@@ -1795,8 +1647,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-04-04</itunes:summary>
                     <description>L27-04-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-04-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-04-04.MP3" type="audio/mpeg"/>
                     <guid>L27-04-04</guid>
                 </item>
         
@@ -1807,8 +1658,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-04-05</itunes:summary>
                     <description>L27-04-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-04-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-04-05.MP3" type="audio/mpeg"/>
                     <guid>L27-04-05</guid>
                 </item>
         
@@ -1819,8 +1669,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-04-06</itunes:summary>
                     <description>L27-04-06</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-04-06.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-04-06.MP3" type="audio/mpeg"/>
                     <guid>L27-04-06</guid>
                 </item>
         
@@ -1831,8 +1680,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-05</itunes:summary>
                     <description>L27-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-05.MP3" type="audio/mpeg"/>
                     <guid>L27-05</guid>
                 </item>
         
@@ -1843,8 +1691,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-06-01</itunes:summary>
                     <description>L27-06-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-06-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-06-01.MP3" type="audio/mpeg"/>
                     <guid>L27-06-01</guid>
                 </item>
         
@@ -1855,8 +1702,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-06-02</itunes:summary>
                     <description>L27-06-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-06-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-06-02.MP3" type="audio/mpeg"/>
                     <guid>L27-06-02</guid>
                 </item>
         
@@ -1867,8 +1713,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-07</itunes:summary>
                     <description>L27-07</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-07.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-07.MP3" type="audio/mpeg"/>
                     <guid>L27-07</guid>
                 </item>
         
@@ -1879,8 +1724,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-08</itunes:summary>
                     <description>L27-08</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-08.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-08.MP3" type="audio/mpeg"/>
                     <guid>L27-08</guid>
                 </item>
         
@@ -1891,8 +1735,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-09-01</itunes:summary>
                     <description>L27-09-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-09-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-09-01.MP3" type="audio/mpeg"/>
                     <guid>L27-09-01</guid>
                 </item>
         
@@ -1903,8 +1746,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-09-02</itunes:summary>
                     <description>L27-09-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-09-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-09-02.MP3" type="audio/mpeg"/>
                     <guid>L27-09-02</guid>
                 </item>
         
@@ -1915,8 +1757,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-10</itunes:summary>
                     <description>L27-10</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-10.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-10.MP3" type="audio/mpeg"/>
                     <guid>L27-10</guid>
                 </item>
         
@@ -1927,8 +1768,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L27-11</itunes:summary>
                     <description>L27-11</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-11.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L27-11.MP3" type="audio/mpeg"/>
                     <guid>L27-11</guid>
                 </item>
         
@@ -1939,8 +1779,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L28-01-01</itunes:summary>
                     <description>L28-01-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-01-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-01-01.MP3" type="audio/mpeg"/>
                     <guid>L28-01-01</guid>
                 </item>
         
@@ -1951,8 +1790,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L28-01-02</itunes:summary>
                     <description>L28-01-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-01-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-01-02.MP3" type="audio/mpeg"/>
                     <guid>L28-01-02</guid>
                 </item>
         
@@ -1963,8 +1801,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L28-01-03</itunes:summary>
                     <description>L28-01-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-01-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-01-03.MP3" type="audio/mpeg"/>
                     <guid>L28-01-03</guid>
                 </item>
         
@@ -1975,8 +1812,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L28-01-04</itunes:summary>
                     <description>L28-01-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-01-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-01-04.MP3" type="audio/mpeg"/>
                     <guid>L28-01-04</guid>
                 </item>
         
@@ -1987,8 +1823,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L28-02</itunes:summary>
                     <description>L28-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-02.MP3" type="audio/mpeg"/>
                     <guid>L28-02</guid>
                 </item>
         
@@ -1999,8 +1834,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L28-03</itunes:summary>
                     <description>L28-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-03.MP3" type="audio/mpeg"/>
                     <guid>L28-03</guid>
                 </item>
         
@@ -2011,8 +1845,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L28-04-01</itunes:summary>
                     <description>L28-04-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-04-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-04-01.MP3" type="audio/mpeg"/>
                     <guid>L28-04-01</guid>
                 </item>
         
@@ -2023,8 +1856,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L28-04-02</itunes:summary>
                     <description>L28-04-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-04-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-04-02.MP3" type="audio/mpeg"/>
                     <guid>L28-04-02</guid>
                 </item>
         
@@ -2035,8 +1867,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L28-04-03</itunes:summary>
                     <description>L28-04-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-04-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-04-03.MP3" type="audio/mpeg"/>
                     <guid>L28-04-03</guid>
                 </item>
         
@@ -2047,8 +1878,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L28-04-04</itunes:summary>
                     <description>L28-04-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-04-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-04-04.MP3" type="audio/mpeg"/>
                     <guid>L28-04-04</guid>
                 </item>
         
@@ -2059,8 +1889,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L28-04-05</itunes:summary>
                     <description>L28-04-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-04-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-04-05.MP3" type="audio/mpeg"/>
                     <guid>L28-04-05</guid>
                 </item>
         
@@ -2071,8 +1900,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L28-05-01</itunes:summary>
                     <description>L28-05-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-05-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-05-01.MP3" type="audio/mpeg"/>
                     <guid>L28-05-01</guid>
                 </item>
         
@@ -2083,8 +1911,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L28-05-02</itunes:summary>
                     <description>L28-05-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-05-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-05-02.MP3" type="audio/mpeg"/>
                     <guid>L28-05-02</guid>
                 </item>
         
@@ -2095,8 +1922,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L28-06-01</itunes:summary>
                     <description>L28-06-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-06-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-06-01.MP3" type="audio/mpeg"/>
                     <guid>L28-06-01</guid>
                 </item>
         
@@ -2107,8 +1933,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L28-06-02</itunes:summary>
                     <description>L28-06-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-06-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-06-02.MP3" type="audio/mpeg"/>
                     <guid>L28-06-02</guid>
                 </item>
         
@@ -2119,8 +1944,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L28-06-03</itunes:summary>
                     <description>L28-06-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-06-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L28-06-03.MP3" type="audio/mpeg"/>
                     <guid>L28-06-03</guid>
                 </item>
         
@@ -2131,8 +1955,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L29-01</itunes:summary>
                     <description>L29-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L29-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L29-01.MP3" type="audio/mpeg"/>
                     <guid>L29-01</guid>
                 </item>
         
@@ -2143,8 +1966,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L29-02</itunes:summary>
                     <description>L29-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L29-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L29-02.MP3" type="audio/mpeg"/>
                     <guid>L29-02</guid>
                 </item>
         
@@ -2155,8 +1977,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L29-03-01</itunes:summary>
                     <description>L29-03-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L29-03-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L29-03-01.MP3" type="audio/mpeg"/>
                     <guid>L29-03-01</guid>
                 </item>
         
@@ -2167,8 +1988,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L29-03-02</itunes:summary>
                     <description>L29-03-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L29-03-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L29-03-02.MP3" type="audio/mpeg"/>
                     <guid>L29-03-02</guid>
                 </item>
         
@@ -2179,8 +1999,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L29-04-01</itunes:summary>
                     <description>L29-04-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L29-04-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L29-04-01.MP3" type="audio/mpeg"/>
                     <guid>L29-04-01</guid>
                 </item>
         
@@ -2191,8 +2010,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L29-04-02</itunes:summary>
                     <description>L29-04-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L29-04-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L29-04-02.MP3" type="audio/mpeg"/>
                     <guid>L29-04-02</guid>
                 </item>
         
@@ -2203,8 +2021,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L29-04-03</itunes:summary>
                     <description>L29-04-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L29-04-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L29-04-03.MP3" type="audio/mpeg"/>
                     <guid>L29-04-03</guid>
                 </item>
         
@@ -2215,8 +2032,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L29-05</itunes:summary>
                     <description>L29-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L29-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L29-05.MP3" type="audio/mpeg"/>
                     <guid>L29-05</guid>
                 </item>
         
@@ -2227,8 +2043,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L29-06</itunes:summary>
                     <description>L29-06</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L29-06.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L29-06.MP3" type="audio/mpeg"/>
                     <guid>L29-06</guid>
                 </item>
         
@@ -2239,8 +2054,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L30-01</itunes:summary>
                     <description>L30-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L30-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L30-01.MP3" type="audio/mpeg"/>
                     <guid>L30-01</guid>
                 </item>
         
@@ -2251,8 +2065,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L30-02</itunes:summary>
                     <description>L30-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L30-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L30-02.MP3" type="audio/mpeg"/>
                     <guid>L30-02</guid>
                 </item>
         
@@ -2263,8 +2076,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L30-03</itunes:summary>
                     <description>L30-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L30-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L30-03.MP3" type="audio/mpeg"/>
                     <guid>L30-03</guid>
                 </item>
         
@@ -2275,8 +2087,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L31-01-01</itunes:summary>
                     <description>L31-01-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L31-01-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L31-01-01.MP3" type="audio/mpeg"/>
                     <guid>L31-01-01</guid>
                 </item>
         
@@ -2287,8 +2098,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L31-01-02</itunes:summary>
                     <description>L31-01-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L31-01-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L31-01-02.MP3" type="audio/mpeg"/>
                     <guid>L31-01-02</guid>
                 </item>
         
@@ -2299,8 +2109,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L31-01-03</itunes:summary>
                     <description>L31-01-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L31-01-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L31-01-03.MP3" type="audio/mpeg"/>
                     <guid>L31-01-03</guid>
                 </item>
         
@@ -2311,8 +2120,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L31-02</itunes:summary>
                     <description>L31-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L31-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L31-02.MP3" type="audio/mpeg"/>
                     <guid>L31-02</guid>
                 </item>
         
@@ -2323,8 +2131,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L31-03-01</itunes:summary>
                     <description>L31-03-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L31-03-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L31-03-01.MP3" type="audio/mpeg"/>
                     <guid>L31-03-01</guid>
                 </item>
         
@@ -2335,8 +2142,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L31-03-02</itunes:summary>
                     <description>L31-03-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L31-03-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L31-03-02.MP3" type="audio/mpeg"/>
                     <guid>L31-03-02</guid>
                 </item>
         
@@ -2347,8 +2153,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L31-04-01</itunes:summary>
                     <description>L31-04-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L31-04-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L31-04-01.MP3" type="audio/mpeg"/>
                     <guid>L31-04-01</guid>
                 </item>
         
@@ -2359,8 +2164,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L31-04-02</itunes:summary>
                     <description>L31-04-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L31-04-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L31-04-02.MP3" type="audio/mpeg"/>
                     <guid>L31-04-02</guid>
                 </item>
         
@@ -2371,8 +2175,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L31-05</itunes:summary>
                     <description>L31-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L31-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L31-05.MP3" type="audio/mpeg"/>
                     <guid>L31-05</guid>
                 </item>
         
@@ -2383,8 +2186,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L31-06-01</itunes:summary>
                     <description>L31-06-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L31-06-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L31-06-01.MP3" type="audio/mpeg"/>
                     <guid>L31-06-01</guid>
                 </item>
         
@@ -2395,8 +2197,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L31-06-02</itunes:summary>
                     <description>L31-06-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L31-06-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L31-06-02.MP3" type="audio/mpeg"/>
                     <guid>L31-06-02</guid>
                 </item>
         
@@ -2407,8 +2208,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L32-01</itunes:summary>
                     <description>L32-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L32-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L32-01.MP3" type="audio/mpeg"/>
                     <guid>L32-01</guid>
                 </item>
         
@@ -2419,8 +2219,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L32-02</itunes:summary>
                     <description>L32-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L32-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L32-02.MP3" type="audio/mpeg"/>
                     <guid>L32-02</guid>
                 </item>
         
@@ -2431,8 +2230,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L32-03</itunes:summary>
                     <description>L32-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L32-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L32-03.MP3" type="audio/mpeg"/>
                     <guid>L32-03</guid>
                 </item>
         
@@ -2443,8 +2241,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L32-04</itunes:summary>
                     <description>L32-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L32-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L32-04.MP3" type="audio/mpeg"/>
                     <guid>L32-04</guid>
                 </item>
         
@@ -2455,8 +2252,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L32-05</itunes:summary>
                     <description>L32-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L32-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L32-05.MP3" type="audio/mpeg"/>
                     <guid>L32-05</guid>
                 </item>
         
@@ -2467,8 +2263,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L32-06</itunes:summary>
                     <description>L32-06</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L32-06.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L32-06.MP3" type="audio/mpeg"/>
                     <guid>L32-06</guid>
                 </item>
         
@@ -2479,8 +2274,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L33-01</itunes:summary>
                     <description>L33-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L33-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L33-01.MP3" type="audio/mpeg"/>
                     <guid>L33-01</guid>
                 </item>
         
@@ -2491,8 +2285,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L33-02</itunes:summary>
                     <description>L33-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L33-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L33-02.MP3" type="audio/mpeg"/>
                     <guid>L33-02</guid>
                 </item>
         
@@ -2503,8 +2296,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L34-01</itunes:summary>
                     <description>L34-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L34-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L34-01.MP3" type="audio/mpeg"/>
                     <guid>L34-01</guid>
                 </item>
         
@@ -2515,8 +2307,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L34-02</itunes:summary>
                     <description>L34-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L34-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L34-02.MP3" type="audio/mpeg"/>
                     <guid>L34-02</guid>
                 </item>
         
@@ -2527,8 +2318,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L35-01</itunes:summary>
                     <description>L35-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L35-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L35-01.MP3" type="audio/mpeg"/>
                     <guid>L35-01</guid>
                 </item>
         
@@ -2539,8 +2329,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L35-02</itunes:summary>
                     <description>L35-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L35-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L35-02.MP3" type="audio/mpeg"/>
                     <guid>L35-02</guid>
                 </item>
         
@@ -2551,8 +2340,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L35-03</itunes:summary>
                     <description>L35-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L35-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L35-03.MP3" type="audio/mpeg"/>
                     <guid>L35-03</guid>
                 </item>
         
@@ -2563,8 +2351,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L35-04</itunes:summary>
                     <description>L35-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L35-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L35-04.MP3" type="audio/mpeg"/>
                     <guid>L35-04</guid>
                 </item>
         
@@ -2575,8 +2362,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L36-01</itunes:summary>
                     <description>L36-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L36-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L36-01.MP3" type="audio/mpeg"/>
                     <guid>L36-01</guid>
                 </item>
         
@@ -2587,8 +2373,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L36-02</itunes:summary>
                     <description>L36-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L36-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L36-02.MP3" type="audio/mpeg"/>
                     <guid>L36-02</guid>
                 </item>
         
@@ -2599,8 +2384,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L37-01</itunes:summary>
                     <description>L37-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L37-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L37-01.MP3" type="audio/mpeg"/>
                     <guid>L37-01</guid>
                 </item>
         
@@ -2611,8 +2395,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L37-02</itunes:summary>
                     <description>L37-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L37-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L37-02.MP3" type="audio/mpeg"/>
                     <guid>L37-02</guid>
                 </item>
         
@@ -2623,8 +2406,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L38-01</itunes:summary>
                     <description>L38-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L38-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L38-01.MP3" type="audio/mpeg"/>
                     <guid>L38-01</guid>
                 </item>
         
@@ -2635,8 +2417,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L38-02</itunes:summary>
                     <description>L38-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L38-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L38-02.MP3" type="audio/mpeg"/>
                     <guid>L38-02</guid>
                 </item>
         
@@ -2647,8 +2428,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L38-03</itunes:summary>
                     <description>L38-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L38-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L38-03.MP3" type="audio/mpeg"/>
                     <guid>L38-03</guid>
                 </item>
         
@@ -2659,8 +2439,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L39-01</itunes:summary>
                     <description>L39-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-01.MP3" type="audio/mpeg"/>
                     <guid>L39-01</guid>
                 </item>
         
@@ -2671,8 +2450,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L39-02-01</itunes:summary>
                     <description>L39-02-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-02-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-02-01.MP3" type="audio/mpeg"/>
                     <guid>L39-02-01</guid>
                 </item>
         
@@ -2683,8 +2461,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L39-02-02</itunes:summary>
                     <description>L39-02-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-02-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-02-02.MP3" type="audio/mpeg"/>
                     <guid>L39-02-02</guid>
                 </item>
         
@@ -2695,8 +2472,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L39-02-03</itunes:summary>
                     <description>L39-02-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-02-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-02-03.MP3" type="audio/mpeg"/>
                     <guid>L39-02-03</guid>
                 </item>
         
@@ -2707,8 +2483,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L39-02-04</itunes:summary>
                     <description>L39-02-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-02-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-02-04.MP3" type="audio/mpeg"/>
                     <guid>L39-02-04</guid>
                 </item>
         
@@ -2719,8 +2494,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L39-02-05-_1_</itunes:summary>
                     <description>L39-02-05-_1_</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-02-05-_1_.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-02-05-_1_.MP3" type="audio/mpeg"/>
                     <guid>L39-02-05-_1_</guid>
                 </item>
         
@@ -2731,8 +2505,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L39-02-05-_2_</itunes:summary>
                     <description>L39-02-05-_2_</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-02-05-_2_.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-02-05-_2_.MP3" type="audio/mpeg"/>
                     <guid>L39-02-05-_2_</guid>
                 </item>
         
@@ -2743,8 +2516,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L39-02-06</itunes:summary>
                     <description>L39-02-06</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-02-06.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-02-06.MP3" type="audio/mpeg"/>
                     <guid>L39-02-06</guid>
                 </item>
         
@@ -2755,8 +2527,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L39-02-07</itunes:summary>
                     <description>L39-02-07</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-02-07.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-02-07.MP3" type="audio/mpeg"/>
                     <guid>L39-02-07</guid>
                 </item>
         
@@ -2767,8 +2538,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L39-02-08</itunes:summary>
                     <description>L39-02-08</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-02-08.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-02-08.MP3" type="audio/mpeg"/>
                     <guid>L39-02-08</guid>
                 </item>
         
@@ -2779,8 +2549,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L39-02-09</itunes:summary>
                     <description>L39-02-09</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-02-09.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-02-09.MP3" type="audio/mpeg"/>
                     <guid>L39-02-09</guid>
                 </item>
         
@@ -2791,8 +2560,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L39-02-10</itunes:summary>
                     <description>L39-02-10</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-02-10.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L39-02-10.MP3" type="audio/mpeg"/>
                     <guid>L39-02-10</guid>
                 </item>
         
@@ -2803,8 +2571,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L40-01</itunes:summary>
                     <description>L40-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L40-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L40-01.MP3" type="audio/mpeg"/>
                     <guid>L40-01</guid>
                 </item>
         
@@ -2815,8 +2582,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L40-02</itunes:summary>
                     <description>L40-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L40-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L40-02.MP3" type="audio/mpeg"/>
                     <guid>L40-02</guid>
                 </item>
         
@@ -2827,8 +2593,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L40-03</itunes:summary>
                     <description>L40-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L40-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L40-03.MP3" type="audio/mpeg"/>
                     <guid>L40-03</guid>
                 </item>
         
@@ -2839,8 +2604,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L41-01</itunes:summary>
                     <description>L41-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L41-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L41-01.MP3" type="audio/mpeg"/>
                     <guid>L41-01</guid>
                 </item>
         
@@ -2851,8 +2615,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L41-02</itunes:summary>
                     <description>L41-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L41-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L41-02.MP3" type="audio/mpeg"/>
                     <guid>L41-02</guid>
                 </item>
         
@@ -2863,8 +2626,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L41-03</itunes:summary>
                     <description>L41-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L41-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L41-03.MP3" type="audio/mpeg"/>
                     <guid>L41-03</guid>
                 </item>
         
@@ -2875,8 +2637,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L41-04</itunes:summary>
                     <description>L41-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L41-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L41-04.MP3" type="audio/mpeg"/>
                     <guid>L41-04</guid>
                 </item>
         
@@ -2887,8 +2648,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L41-05</itunes:summary>
                     <description>L41-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L41-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L41-05.MP3" type="audio/mpeg"/>
                     <guid>L41-05</guid>
                 </item>
         
@@ -2899,8 +2659,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L42-01</itunes:summary>
                     <description>L42-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L42-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L42-01.MP3" type="audio/mpeg"/>
                     <guid>L42-01</guid>
                 </item>
         
@@ -2911,8 +2670,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L42-02</itunes:summary>
                     <description>L42-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L42-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L42-02.MP3" type="audio/mpeg"/>
                     <guid>L42-02</guid>
                 </item>
         
@@ -2923,8 +2681,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L42-03</itunes:summary>
                     <description>L42-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L42-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L42-03.MP3" type="audio/mpeg"/>
                     <guid>L42-03</guid>
                 </item>
         
@@ -2935,8 +2692,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L43-01</itunes:summary>
                     <description>L43-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L43-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L43-01.MP3" type="audio/mpeg"/>
                     <guid>L43-01</guid>
                 </item>
         
@@ -2947,8 +2703,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L43-02</itunes:summary>
                     <description>L43-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L43-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L43-02.MP3" type="audio/mpeg"/>
                     <guid>L43-02</guid>
                 </item>
         
@@ -2959,8 +2714,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L43-03</itunes:summary>
                     <description>L43-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L43-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L43-03.MP3" type="audio/mpeg"/>
                     <guid>L43-03</guid>
                 </item>
         
@@ -2971,8 +2725,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L44-01</itunes:summary>
                     <description>L44-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L44-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L44-01.MP3" type="audio/mpeg"/>
                     <guid>L44-01</guid>
                 </item>
         
@@ -2983,8 +2736,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L44-02</itunes:summary>
                     <description>L44-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L44-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L44-02.MP3" type="audio/mpeg"/>
                     <guid>L44-02</guid>
                 </item>
         
@@ -2995,8 +2747,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L44-03</itunes:summary>
                     <description>L44-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L44-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L44-03.MP3" type="audio/mpeg"/>
                     <guid>L44-03</guid>
                 </item>
         
@@ -3007,8 +2758,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L45-01</itunes:summary>
                     <description>L45-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L45-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L45-01.MP3" type="audio/mpeg"/>
                     <guid>L45-01</guid>
                 </item>
         
@@ -3019,8 +2769,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L45-02</itunes:summary>
                     <description>L45-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L45-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L45-02.MP3" type="audio/mpeg"/>
                     <guid>L45-02</guid>
                 </item>
         
@@ -3031,8 +2780,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L45-03</itunes:summary>
                     <description>L45-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L45-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L45-03.MP3" type="audio/mpeg"/>
                     <guid>L45-03</guid>
                 </item>
         
@@ -3043,8 +2791,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L45-04</itunes:summary>
                     <description>L45-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L45-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L45-04.MP3" type="audio/mpeg"/>
                     <guid>L45-04</guid>
                 </item>
         
@@ -3055,8 +2802,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L46-01</itunes:summary>
                     <description>L46-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-01.MP3" type="audio/mpeg"/>
                     <guid>L46-01</guid>
                 </item>
         
@@ -3067,8 +2813,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L46-02</itunes:summary>
                     <description>L46-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-02.MP3" type="audio/mpeg"/>
                     <guid>L46-02</guid>
                 </item>
         
@@ -3079,8 +2824,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L46-03</itunes:summary>
                     <description>L46-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-03.MP3" type="audio/mpeg"/>
                     <guid>L46-03</guid>
                 </item>
         
@@ -3091,8 +2835,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L46-04</itunes:summary>
                     <description>L46-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-04.MP3" type="audio/mpeg"/>
                     <guid>L46-04</guid>
                 </item>
         
@@ -3103,8 +2846,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L46-05</itunes:summary>
                     <description>L46-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-05.MP3" type="audio/mpeg"/>
                     <guid>L46-05</guid>
                 </item>
         
@@ -3115,8 +2857,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L46-06</itunes:summary>
                     <description>L46-06</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-06.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-06.MP3" type="audio/mpeg"/>
                     <guid>L46-06</guid>
                 </item>
         
@@ -3127,8 +2868,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L46-07</itunes:summary>
                     <description>L46-07</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-07.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-07.MP3" type="audio/mpeg"/>
                     <guid>L46-07</guid>
                 </item>
         
@@ -3139,8 +2879,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L46-08</itunes:summary>
                     <description>L46-08</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-08.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-08.MP3" type="audio/mpeg"/>
                     <guid>L46-08</guid>
                 </item>
         
@@ -3151,8 +2890,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L46-09</itunes:summary>
                     <description>L46-09</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-09.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-09.MP3" type="audio/mpeg"/>
                     <guid>L46-09</guid>
                 </item>
         
@@ -3163,8 +2901,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L46-10</itunes:summary>
                     <description>L46-10</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-10.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-10.MP3" type="audio/mpeg"/>
                     <guid>L46-10</guid>
                 </item>
         
@@ -3175,8 +2912,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L46-11</itunes:summary>
                     <description>L46-11</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-11.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-11.MP3" type="audio/mpeg"/>
                     <guid>L46-11</guid>
                 </item>
         
@@ -3187,8 +2923,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L46-12</itunes:summary>
                     <description>L46-12</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-12.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-12.MP3" type="audio/mpeg"/>
                     <guid>L46-12</guid>
                 </item>
         
@@ -3199,8 +2934,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L46-13</itunes:summary>
                     <description>L46-13</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-13.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-13.MP3" type="audio/mpeg"/>
                     <guid>L46-13</guid>
                 </item>
         
@@ -3211,8 +2945,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L46-14</itunes:summary>
                     <description>L46-14</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-14.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L46-14.MP3" type="audio/mpeg"/>
                     <guid>L46-14</guid>
                 </item>
         
@@ -3223,8 +2956,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L47-01</itunes:summary>
                     <description>L47-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L47-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L47-01.MP3" type="audio/mpeg"/>
                     <guid>L47-01</guid>
                 </item>
         
@@ -3235,8 +2967,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L47-02</itunes:summary>
                     <description>L47-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L47-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L47-02.MP3" type="audio/mpeg"/>
                     <guid>L47-02</guid>
                 </item>
         
@@ -3247,8 +2978,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L47-03</itunes:summary>
                     <description>L47-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L47-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L47-03.MP3" type="audio/mpeg"/>
                     <guid>L47-03</guid>
                 </item>
         
@@ -3259,8 +2989,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L47-04</itunes:summary>
                     <description>L47-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L47-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L47-04.MP3" type="audio/mpeg"/>
                     <guid>L47-04</guid>
                 </item>
         
@@ -3271,8 +3000,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L48-01</itunes:summary>
                     <description>L48-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L48-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L48-01.MP3" type="audio/mpeg"/>
                     <guid>L48-01</guid>
                 </item>
         
@@ -3283,8 +3011,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L48-02</itunes:summary>
                     <description>L48-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L48-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L48-02.MP3" type="audio/mpeg"/>
                     <guid>L48-02</guid>
                 </item>
         
@@ -3295,8 +3022,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L49-01</itunes:summary>
                     <description>L49-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-01.MP3" type="audio/mpeg"/>
                     <guid>L49-01</guid>
                 </item>
         
@@ -3307,8 +3033,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L49-02</itunes:summary>
                     <description>L49-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-02.MP3" type="audio/mpeg"/>
                     <guid>L49-02</guid>
                 </item>
         
@@ -3319,8 +3044,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L49-03</itunes:summary>
                     <description>L49-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-03.MP3" type="audio/mpeg"/>
                     <guid>L49-03</guid>
                 </item>
         
@@ -3331,8 +3055,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L49-04</itunes:summary>
                     <description>L49-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-04.MP3" type="audio/mpeg"/>
                     <guid>L49-04</guid>
                 </item>
         
@@ -3343,8 +3066,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L49-05</itunes:summary>
                     <description>L49-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-05.MP3" type="audio/mpeg"/>
                     <guid>L49-05</guid>
                 </item>
         
@@ -3355,8 +3077,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L49-06</itunes:summary>
                     <description>L49-06</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-06.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-06.MP3" type="audio/mpeg"/>
                     <guid>L49-06</guid>
                 </item>
         
@@ -3367,8 +3088,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L49-07</itunes:summary>
                     <description>L49-07</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-07.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-07.MP3" type="audio/mpeg"/>
                     <guid>L49-07</guid>
                 </item>
         
@@ -3379,8 +3099,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L49-08</itunes:summary>
                     <description>L49-08</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-08.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-08.MP3" type="audio/mpeg"/>
                     <guid>L49-08</guid>
                 </item>
         
@@ -3391,8 +3110,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L49-09</itunes:summary>
                     <description>L49-09</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-09.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-09.MP3" type="audio/mpeg"/>
                     <guid>L49-09</guid>
                 </item>
         
@@ -3403,8 +3121,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L49-10</itunes:summary>
                     <description>L49-10</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-10.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-10.MP3" type="audio/mpeg"/>
                     <guid>L49-10</guid>
                 </item>
         
@@ -3415,8 +3132,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L49-11</itunes:summary>
                     <description>L49-11</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-11.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-11.MP3" type="audio/mpeg"/>
                     <guid>L49-11</guid>
                 </item>
         
@@ -3427,8 +3143,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L49-12</itunes:summary>
                     <description>L49-12</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-12.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-12.MP3" type="audio/mpeg"/>
                     <guid>L49-12</guid>
                 </item>
         
@@ -3439,8 +3154,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L49-13</itunes:summary>
                     <description>L49-13</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-13.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-13.MP3" type="audio/mpeg"/>
                     <guid>L49-13</guid>
                 </item>
         
@@ -3451,8 +3165,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L49-14</itunes:summary>
                     <description>L49-14</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-14.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L49-14.MP3" type="audio/mpeg"/>
                     <guid>L49-14</guid>
                 </item>
         
@@ -3463,8 +3176,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L50-01</itunes:summary>
                     <description>L50-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L50-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L50-01.MP3" type="audio/mpeg"/>
                     <guid>L50-01</guid>
                 </item>
         
@@ -3475,8 +3187,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L50-02</itunes:summary>
                     <description>L50-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L50-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L50-02.MP3" type="audio/mpeg"/>
                     <guid>L50-02</guid>
                 </item>
         
@@ -3487,8 +3198,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L50-03</itunes:summary>
                     <description>L50-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L50-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L50-03.MP3" type="audio/mpeg"/>
                     <guid>L50-03</guid>
                 </item>
         
@@ -3499,8 +3209,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L50-04</itunes:summary>
                     <description>L50-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L50-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L50-04.MP3" type="audio/mpeg"/>
                     <guid>L50-04</guid>
                 </item>
         
@@ -3511,8 +3220,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L51-01</itunes:summary>
                     <description>L51-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-01.MP3" type="audio/mpeg"/>
                     <guid>L51-01</guid>
                 </item>
         
@@ -3523,8 +3231,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L51-02</itunes:summary>
                     <description>L51-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-02.MP3" type="audio/mpeg"/>
                     <guid>L51-02</guid>
                 </item>
         
@@ -3535,8 +3242,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L51-03</itunes:summary>
                     <description>L51-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-03.MP3" type="audio/mpeg"/>
                     <guid>L51-03</guid>
                 </item>
         
@@ -3547,8 +3253,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L51-04</itunes:summary>
                     <description>L51-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-04.MP3" type="audio/mpeg"/>
                     <guid>L51-04</guid>
                 </item>
         
@@ -3559,8 +3264,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L51-05</itunes:summary>
                     <description>L51-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-05.MP3" type="audio/mpeg"/>
                     <guid>L51-05</guid>
                 </item>
         
@@ -3571,8 +3275,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L51-06</itunes:summary>
                     <description>L51-06</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-06.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-06.MP3" type="audio/mpeg"/>
                     <guid>L51-06</guid>
                 </item>
         
@@ -3583,8 +3286,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L51-07</itunes:summary>
                     <description>L51-07</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-07.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-07.MP3" type="audio/mpeg"/>
                     <guid>L51-07</guid>
                 </item>
         
@@ -3595,8 +3297,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L51-08</itunes:summary>
                     <description>L51-08</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-08.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-08.MP3" type="audio/mpeg"/>
                     <guid>L51-08</guid>
                 </item>
         
@@ -3607,8 +3308,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L51-09</itunes:summary>
                     <description>L51-09</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-09.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-09.MP3" type="audio/mpeg"/>
                     <guid>L51-09</guid>
                 </item>
         
@@ -3619,8 +3319,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L51-10</itunes:summary>
                     <description>L51-10</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-10.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-10.MP3" type="audio/mpeg"/>
                     <guid>L51-10</guid>
                 </item>
         
@@ -3631,8 +3330,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L51-11</itunes:summary>
                     <description>L51-11</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-11.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-11.MP3" type="audio/mpeg"/>
                     <guid>L51-11</guid>
                 </item>
         
@@ -3643,8 +3341,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L51-12</itunes:summary>
                     <description>L51-12</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-12.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-12.MP3" type="audio/mpeg"/>
                     <guid>L51-12</guid>
                 </item>
         
@@ -3655,8 +3352,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L51-13</itunes:summary>
                     <description>L51-13</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-13.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-13.MP3" type="audio/mpeg"/>
                     <guid>L51-13</guid>
                 </item>
         
@@ -3667,8 +3363,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L51-14</itunes:summary>
                     <description>L51-14</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-14.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-14.MP3" type="audio/mpeg"/>
                     <guid>L51-14</guid>
                 </item>
         
@@ -3679,8 +3374,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L51-15</itunes:summary>
                     <description>L51-15</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-15.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-15.MP3" type="audio/mpeg"/>
                     <guid>L51-15</guid>
                 </item>
         
@@ -3691,8 +3385,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L51-16</itunes:summary>
                     <description>L51-16</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-16.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-16.MP3" type="audio/mpeg"/>
                     <guid>L51-16</guid>
                 </item>
         
@@ -3703,8 +3396,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L51-17</itunes:summary>
                     <description>L51-17</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-17.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-17.MP3" type="audio/mpeg"/>
                     <guid>L51-17</guid>
                 </item>
         
@@ -3715,8 +3407,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L51-18</itunes:summary>
                     <description>L51-18</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-18.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-18.MP3" type="audio/mpeg"/>
                     <guid>L51-18</guid>
                 </item>
         
@@ -3727,8 +3418,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L51-19</itunes:summary>
                     <description>L51-19</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-19.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-19.MP3" type="audio/mpeg"/>
                     <guid>L51-19</guid>
                 </item>
         
@@ -3739,8 +3429,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L51-20</itunes:summary>
                     <description>L51-20</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-20.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L51-20.MP3" type="audio/mpeg"/>
                     <guid>L51-20</guid>
                 </item>
         
@@ -3751,8 +3440,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L52-01</itunes:summary>
                     <description>L52-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L52-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L52-01.MP3" type="audio/mpeg"/>
                     <guid>L52-01</guid>
                 </item>
         
@@ -3763,8 +3451,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L52-02</itunes:summary>
                     <description>L52-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L52-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L52-02.MP3" type="audio/mpeg"/>
                     <guid>L52-02</guid>
                 </item>
         
@@ -3775,8 +3462,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L52-03</itunes:summary>
                     <description>L52-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L52-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L52-03.MP3" type="audio/mpeg"/>
                     <guid>L52-03</guid>
                 </item>
         
@@ -3787,8 +3473,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L52-04</itunes:summary>
                     <description>L52-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L52-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L52-04.MP3" type="audio/mpeg"/>
                     <guid>L52-04</guid>
                 </item>
         
@@ -3799,8 +3484,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L52-05</itunes:summary>
                     <description>L52-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L52-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L52-05.MP3" type="audio/mpeg"/>
                     <guid>L52-05</guid>
                 </item>
         
@@ -3811,8 +3495,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L53-01</itunes:summary>
                     <description>L53-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L53-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L53-01.MP3" type="audio/mpeg"/>
                     <guid>L53-01</guid>
                 </item>
         
@@ -3823,8 +3506,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L53-02</itunes:summary>
                     <description>L53-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L53-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L53-02.MP3" type="audio/mpeg"/>
                     <guid>L53-02</guid>
                 </item>
         
@@ -3835,8 +3517,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L53-03</itunes:summary>
                     <description>L53-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L53-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L53-03.MP3" type="audio/mpeg"/>
                     <guid>L53-03</guid>
                 </item>
         
@@ -3847,8 +3528,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L53-04</itunes:summary>
                     <description>L53-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L53-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L53-04.MP3" type="audio/mpeg"/>
                     <guid>L53-04</guid>
                 </item>
         
@@ -3859,8 +3539,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L53-05</itunes:summary>
                     <description>L53-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L53-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L53-05.MP3" type="audio/mpeg"/>
                     <guid>L53-05</guid>
                 </item>
         
@@ -3871,8 +3550,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L53-06</itunes:summary>
                     <description>L53-06</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L53-06.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L53-06.MP3" type="audio/mpeg"/>
                     <guid>L53-06</guid>
                 </item>
         
@@ -3883,8 +3561,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L53-07</itunes:summary>
                     <description>L53-07</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L53-07.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L53-07.MP3" type="audio/mpeg"/>
                     <guid>L53-07</guid>
                 </item>
         
@@ -3895,8 +3572,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L53-08</itunes:summary>
                     <description>L53-08</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L53-08.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L53-08.MP3" type="audio/mpeg"/>
                     <guid>L53-08</guid>
                 </item>
         
@@ -3907,8 +3583,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L53-09</itunes:summary>
                     <description>L53-09</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L53-09.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L53-09.MP3" type="audio/mpeg"/>
                     <guid>L53-09</guid>
                 </item>
         
@@ -3919,8 +3594,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L53-10</itunes:summary>
                     <description>L53-10</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L53-10.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L53-10.MP3" type="audio/mpeg"/>
                     <guid>L53-10</guid>
                 </item>
         
@@ -3931,8 +3605,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L53-11</itunes:summary>
                     <description>L53-11</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L53-11.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L53-11.MP3" type="audio/mpeg"/>
                     <guid>L53-11</guid>
                 </item>
         
@@ -3943,8 +3616,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L54-01</itunes:summary>
                     <description>L54-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L54-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L54-01.MP3" type="audio/mpeg"/>
                     <guid>L54-01</guid>
                 </item>
         
@@ -3955,8 +3627,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L54-02</itunes:summary>
                     <description>L54-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L54-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L54-02.MP3" type="audio/mpeg"/>
                     <guid>L54-02</guid>
                 </item>
         
@@ -3967,8 +3638,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L54-03</itunes:summary>
                     <description>L54-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L54-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L54-03.MP3" type="audio/mpeg"/>
                     <guid>L54-03</guid>
                 </item>
         
@@ -3979,8 +3649,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L54-04</itunes:summary>
                     <description>L54-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L54-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L54-04.MP3" type="audio/mpeg"/>
                     <guid>L54-04</guid>
                 </item>
         
@@ -3991,8 +3660,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L54-05</itunes:summary>
                     <description>L54-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L54-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L54-05.MP3" type="audio/mpeg"/>
                     <guid>L54-05</guid>
                 </item>
         
@@ -4003,8 +3671,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L54-06</itunes:summary>
                     <description>L54-06</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L54-06.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L54-06.MP3" type="audio/mpeg"/>
                     <guid>L54-06</guid>
                 </item>
         
@@ -4015,8 +3682,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L55-01</itunes:summary>
                     <description>L55-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L55-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L55-01.MP3" type="audio/mpeg"/>
                     <guid>L55-01</guid>
                 </item>
         
@@ -4027,8 +3693,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L55-02</itunes:summary>
                     <description>L55-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L55-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L55-02.MP3" type="audio/mpeg"/>
                     <guid>L55-02</guid>
                 </item>
         
@@ -4039,8 +3704,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L55-03</itunes:summary>
                     <description>L55-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L55-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L55-03.MP3" type="audio/mpeg"/>
                     <guid>L55-03</guid>
                 </item>
         
@@ -4051,8 +3715,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L55-04</itunes:summary>
                     <description>L55-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L55-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L55-04.MP3" type="audio/mpeg"/>
                     <guid>L55-04</guid>
                 </item>
         
@@ -4063,8 +3726,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L55-05</itunes:summary>
                     <description>L55-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L55-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L55-05.MP3" type="audio/mpeg"/>
                     <guid>L55-05</guid>
                 </item>
         
@@ -4075,8 +3737,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L55-06</itunes:summary>
                     <description>L55-06</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L55-06.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L55-06.MP3" type="audio/mpeg"/>
                     <guid>L55-06</guid>
                 </item>
         
@@ -4087,8 +3748,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L56-00</itunes:summary>
                     <description>L56-00</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-00.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-00.MP3" type="audio/mpeg"/>
                     <guid>L56-00</guid>
                 </item>
         
@@ -4099,8 +3759,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L56-01-01</itunes:summary>
                     <description>L56-01-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-01-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-01-01.MP3" type="audio/mpeg"/>
                     <guid>L56-01-01</guid>
                 </item>
         
@@ -4111,8 +3770,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L56-01-02</itunes:summary>
                     <description>L56-01-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-01-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-01-02.MP3" type="audio/mpeg"/>
                     <guid>L56-01-02</guid>
                 </item>
         
@@ -4123,8 +3781,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L56-01-03</itunes:summary>
                     <description>L56-01-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-01-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-01-03.MP3" type="audio/mpeg"/>
                     <guid>L56-01-03</guid>
                 </item>
         
@@ -4135,8 +3792,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L56-01-04</itunes:summary>
                     <description>L56-01-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-01-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-01-04.MP3" type="audio/mpeg"/>
                     <guid>L56-01-04</guid>
                 </item>
         
@@ -4147,8 +3803,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L56-01-05</itunes:summary>
                     <description>L56-01-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-01-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-01-05.MP3" type="audio/mpeg"/>
                     <guid>L56-01-05</guid>
                 </item>
         
@@ -4159,8 +3814,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L56-02-01</itunes:summary>
                     <description>L56-02-01</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-02-01.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-02-01.MP3" type="audio/mpeg"/>
                     <guid>L56-02-01</guid>
                 </item>
         
@@ -4171,8 +3825,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L56-02-02</itunes:summary>
                     <description>L56-02-02</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-02-02.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-02-02.MP3" type="audio/mpeg"/>
                     <guid>L56-02-02</guid>
                 </item>
         
@@ -4183,8 +3836,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L56-02-03</itunes:summary>
                     <description>L56-02-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-02-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-02-03.MP3" type="audio/mpeg"/>
                     <guid>L56-02-03</guid>
                 </item>
         
@@ -4195,8 +3847,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L56-03</itunes:summary>
                     <description>L56-03</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-03.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-03.MP3" type="audio/mpeg"/>
                     <guid>L56-03</guid>
                 </item>
         
@@ -4207,8 +3858,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L56-04</itunes:summary>
                     <description>L56-04</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-04.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-04.MP3" type="audio/mpeg"/>
                     <guid>L56-04</guid>
                 </item>
         
@@ -4219,8 +3869,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L56-05</itunes:summary>
                     <description>L56-05</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-05.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-05.MP3" type="audio/mpeg"/>
                     <guid>L56-05</guid>
                 </item>
         
@@ -4231,8 +3880,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L56-06</itunes:summary>
                     <description>L56-06</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-06.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-06.MP3" type="audio/mpeg"/>
                     <guid>L56-06</guid>
                 </item>
         
@@ -4243,8 +3891,7 @@
                     <itunes:author>길벗 이지톡</itunes:author>
                     <itunes:summary>L56-07</itunes:summary>
                     <description>L56-07</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-07.MP3
-" type="audio/mpeg"/>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003602/L56-07.MP3" type="audio/mpeg"/>
                     <guid>L56-07</guid>
                 </item>
         
