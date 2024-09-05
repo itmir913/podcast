@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
-        <title>일본어 문법 무작정 따라하기(예문)</title>
+        <title>일본어 문법 무작정 따라하기(구판 예문)</title>
         <link>https://www.gilbut.co.kr/book/view?bookcode=BC004152</link>
         <language>ko-kr</language>
         <itunes:author>길벗 이지톡</itunes:author>
-        <itunes:summary>일본어 문법 무작정 따라하기 예문</itunes:summary>
-        <description>일본어 문법 무작정 따라하기 예문</description>
+        <itunes:summary>일본어 문법 무작정 따라하기 구판 예문</itunes:summary>
+        <description>일본어 문법 무작정 따라하기 구판 예문</description>
         <itunes:category text="Education">
             <itunes:category text="Language Courses"/>
         </itunes:category>
@@ -15,1484 +15,901 @@
 
                 <!-- Episode 1 -->
                 <item>
-                    <title>01-1
-</title>
+                    <title>01-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>01-1
-</itunes:summary>
-                    <description>01-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/01-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>01-1
-</guid>
+                    <itunes:summary>01-1</itunes:summary>
+                    <description>01-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/01-1_.MP3" type="audio/mpeg"/>
+                    <guid>01-1</guid>
+                    <pubDate>Fri, 11 Jul 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 2 -->
                 <item>
-                    <title>01-2
-</title>
+                    <title>01-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>01-2
-</itunes:summary>
-                    <description>01-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/01-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>01-2
-</guid>
+                    <itunes:summary>01-2</itunes:summary>
+                    <description>01-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/01-2_.MP3" type="audio/mpeg"/>
+                    <guid>01-2</guid>
+                    <pubDate>Sat, 12 Jul 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 3 -->
                 <item>
-                    <title>02-1
-</title>
+                    <title>02-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>02-1
-</itunes:summary>
-                    <description>02-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/02-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>02-1
-</guid>
+                    <itunes:summary>02-1</itunes:summary>
+                    <description>02-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/02-1_.MP3" type="audio/mpeg"/>
+                    <guid>02-1</guid>
+                    <pubDate>Sun, 13 Jul 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 4 -->
                 <item>
-                    <title>02-2
-</title>
+                    <title>02-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>02-2
-</itunes:summary>
-                    <description>02-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/02-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>02-2
-</guid>
+                    <itunes:summary>02-2</itunes:summary>
+                    <description>02-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/02-2_.MP3" type="audio/mpeg"/>
+                    <guid>02-2</guid>
+                    <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 5 -->
                 <item>
-                    <title>03-1
-</title>
+                    <title>03-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>03-1
-</itunes:summary>
-                    <description>03-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/03-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>03-1
-</guid>
+                    <itunes:summary>03-1</itunes:summary>
+                    <description>03-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/03-1_.MP3" type="audio/mpeg"/>
+                    <guid>03-1</guid>
+                    <pubDate>Tue, 15 Jul 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 6 -->
                 <item>
-                    <title>03-2
-</title>
+                    <title>03-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>03-2
-</itunes:summary>
-                    <description>03-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/03-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>03-2
-</guid>
+                    <itunes:summary>03-2</itunes:summary>
+                    <description>03-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/03-2_.MP3" type="audio/mpeg"/>
+                    <guid>03-2</guid>
+                    <pubDate>Wed, 16 Jul 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 7 -->
                 <item>
-                    <title>04-1
-</title>
+                    <title>04-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>04-1
-</itunes:summary>
-                    <description>04-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/04-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>04-1
-</guid>
+                    <itunes:summary>04-1</itunes:summary>
+                    <description>04-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/04-1_.MP3" type="audio/mpeg"/>
+                    <guid>04-1</guid>
+                    <pubDate>Thu, 17 Jul 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 8 -->
                 <item>
-                    <title>04-2
-</title>
+                    <title>04-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>04-2
-</itunes:summary>
-                    <description>04-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/04-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>04-2
-</guid>
+                    <itunes:summary>04-2</itunes:summary>
+                    <description>04-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/04-2_.MP3" type="audio/mpeg"/>
+                    <guid>04-2</guid>
+                    <pubDate>Fri, 18 Jul 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 9 -->
                 <item>
-                    <title>05-1
-</title>
+                    <title>05-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>05-1
-</itunes:summary>
-                    <description>05-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/05-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>05-1
-</guid>
+                    <itunes:summary>05-1</itunes:summary>
+                    <description>05-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/05-1_.MP3" type="audio/mpeg"/>
+                    <guid>05-1</guid>
+                    <pubDate>Sat, 19 Jul 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 10 -->
                 <item>
-                    <title>05-2
-</title>
+                    <title>05-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>05-2
-</itunes:summary>
-                    <description>05-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/05-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>05-2
-</guid>
+                    <itunes:summary>05-2</itunes:summary>
+                    <description>05-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/05-2_.MP3" type="audio/mpeg"/>
+                    <guid>05-2</guid>
+                    <pubDate>Sun, 20 Jul 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 11 -->
                 <item>
-                    <title>06-1
-</title>
+                    <title>06-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>06-1
-</itunes:summary>
-                    <description>06-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/06-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>06-1
-</guid>
+                    <itunes:summary>06-1</itunes:summary>
+                    <description>06-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/06-1_.MP3" type="audio/mpeg"/>
+                    <guid>06-1</guid>
+                    <pubDate>Mon, 21 Jul 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 12 -->
                 <item>
-                    <title>06-2
-</title>
+                    <title>06-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>06-2
-</itunes:summary>
-                    <description>06-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/06-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>06-2
-</guid>
+                    <itunes:summary>06-2</itunes:summary>
+                    <description>06-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/06-2_.MP3" type="audio/mpeg"/>
+                    <guid>06-2</guid>
+                    <pubDate>Tue, 22 Jul 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 13 -->
                 <item>
-                    <title>07-1
-</title>
+                    <title>07-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>07-1
-</itunes:summary>
-                    <description>07-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/07-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>07-1
-</guid>
+                    <itunes:summary>07-1</itunes:summary>
+                    <description>07-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/07-1_.MP3" type="audio/mpeg"/>
+                    <guid>07-1</guid>
+                    <pubDate>Wed, 23 Jul 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 14 -->
                 <item>
-                    <title>07-2
-</title>
+                    <title>07-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>07-2
-</itunes:summary>
-                    <description>07-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/07-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>07-2
-</guid>
+                    <itunes:summary>07-2</itunes:summary>
+                    <description>07-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/07-2_.MP3" type="audio/mpeg"/>
+                    <guid>07-2</guid>
+                    <pubDate>Thu, 24 Jul 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 15 -->
                 <item>
-                    <title>08-1
-</title>
+                    <title>08-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>08-1
-</itunes:summary>
-                    <description>08-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/08-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>08-1
-</guid>
+                    <itunes:summary>08-1</itunes:summary>
+                    <description>08-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/08-1_.MP3" type="audio/mpeg"/>
+                    <guid>08-1</guid>
+                    <pubDate>Fri, 25 Jul 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 16 -->
                 <item>
-                    <title>08-2
-</title>
+                    <title>08-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>08-2
-</itunes:summary>
-                    <description>08-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/08-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>08-2
-</guid>
+                    <itunes:summary>08-2</itunes:summary>
+                    <description>08-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/08-2_.MP3" type="audio/mpeg"/>
+                    <guid>08-2</guid>
+                    <pubDate>Sat, 26 Jul 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 17 -->
                 <item>
-                    <title>09-1
-</title>
+                    <title>09-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>09-1
-</itunes:summary>
-                    <description>09-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/09-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>09-1
-</guid>
+                    <itunes:summary>09-1</itunes:summary>
+                    <description>09-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/09-1_.MP3" type="audio/mpeg"/>
+                    <guid>09-1</guid>
+                    <pubDate>Sun, 27 Jul 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 18 -->
                 <item>
-                    <title>09-2
-</title>
+                    <title>09-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>09-2
-</itunes:summary>
-                    <description>09-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/09-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>09-2
-</guid>
+                    <itunes:summary>09-2</itunes:summary>
+                    <description>09-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/09-2_.MP3" type="audio/mpeg"/>
+                    <guid>09-2</guid>
+                    <pubDate>Mon, 28 Jul 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 19 -->
                 <item>
-                    <title>10-1
-</title>
+                    <title>10-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>10-1
-</itunes:summary>
-                    <description>10-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/10-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>10-1
-</guid>
+                    <itunes:summary>10-1</itunes:summary>
+                    <description>10-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/10-1_.MP3" type="audio/mpeg"/>
+                    <guid>10-1</guid>
+                    <pubDate>Tue, 29 Jul 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 20 -->
                 <item>
-                    <title>11-1
-</title>
+                    <title>11-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>11-1
-</itunes:summary>
-                    <description>11-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/11-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>11-1
-</guid>
+                    <itunes:summary>11-1</itunes:summary>
+                    <description>11-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/11-1_.MP3" type="audio/mpeg"/>
+                    <guid>11-1</guid>
+                    <pubDate>Wed, 30 Jul 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 21 -->
                 <item>
-                    <title>11-2
-</title>
+                    <title>11-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>11-2
-</itunes:summary>
-                    <description>11-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/11-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>11-2
-</guid>
+                    <itunes:summary>11-2</itunes:summary>
+                    <description>11-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/11-2_.MP3" type="audio/mpeg"/>
+                    <guid>11-2</guid>
+                    <pubDate>Thu, 31 Jul 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 22 -->
                 <item>
-                    <title>12-1
-</title>
+                    <title>12-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>12-1
-</itunes:summary>
-                    <description>12-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/12-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>12-1
-</guid>
+                    <itunes:summary>12-1</itunes:summary>
+                    <description>12-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/12-1_.MP3" type="audio/mpeg"/>
+                    <guid>12-1</guid>
+                    <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 23 -->
                 <item>
-                    <title>12-2
-</title>
+                    <title>12-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>12-2
-</itunes:summary>
-                    <description>12-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/12-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>12-2
-</guid>
+                    <itunes:summary>12-2</itunes:summary>
+                    <description>12-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/12-2_.MP3" type="audio/mpeg"/>
+                    <guid>12-2</guid>
+                    <pubDate>Sat, 02 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 24 -->
                 <item>
-                    <title>13-1
-</title>
+                    <title>13-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>13-1
-</itunes:summary>
-                    <description>13-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/13-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>13-1
-</guid>
+                    <itunes:summary>13-1</itunes:summary>
+                    <description>13-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/13-1_.MP3" type="audio/mpeg"/>
+                    <guid>13-1</guid>
+                    <pubDate>Sun, 03 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 25 -->
                 <item>
-                    <title>13-2
-</title>
+                    <title>13-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>13-2
-</itunes:summary>
-                    <description>13-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/13-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>13-2
-</guid>
+                    <itunes:summary>13-2</itunes:summary>
+                    <description>13-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/13-2_.MP3" type="audio/mpeg"/>
+                    <guid>13-2</guid>
+                    <pubDate>Mon, 04 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 26 -->
                 <item>
-                    <title>14-1
-</title>
+                    <title>14-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>14-1
-</itunes:summary>
-                    <description>14-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/14-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>14-1
-</guid>
+                    <itunes:summary>14-1</itunes:summary>
+                    <description>14-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/14-1_.MP3" type="audio/mpeg"/>
+                    <guid>14-1</guid>
+                    <pubDate>Tue, 05 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 27 -->
                 <item>
-                    <title>14-2
-</title>
+                    <title>14-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>14-2
-</itunes:summary>
-                    <description>14-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/14-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>14-2
-</guid>
+                    <itunes:summary>14-2</itunes:summary>
+                    <description>14-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/14-2_.MP3" type="audio/mpeg"/>
+                    <guid>14-2</guid>
+                    <pubDate>Wed, 06 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 28 -->
                 <item>
-                    <title>15-1
-</title>
+                    <title>15-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>15-1
-</itunes:summary>
-                    <description>15-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/15-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>15-1
-</guid>
+                    <itunes:summary>15-1</itunes:summary>
+                    <description>15-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/15-1_.MP3" type="audio/mpeg"/>
+                    <guid>15-1</guid>
+                    <pubDate>Thu, 07 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 29 -->
                 <item>
-                    <title>15-2
-</title>
+                    <title>15-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>15-2
-</itunes:summary>
-                    <description>15-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/15-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>15-2
-</guid>
+                    <itunes:summary>15-2</itunes:summary>
+                    <description>15-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/15-2_.MP3" type="audio/mpeg"/>
+                    <guid>15-2</guid>
+                    <pubDate>Fri, 08 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 30 -->
                 <item>
-                    <title>16-1
-</title>
+                    <title>16-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>16-1
-</itunes:summary>
-                    <description>16-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/16-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>16-1
-</guid>
+                    <itunes:summary>16-1</itunes:summary>
+                    <description>16-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/16-1_.MP3" type="audio/mpeg"/>
+                    <guid>16-1</guid>
+                    <pubDate>Sat, 09 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 31 -->
                 <item>
-                    <title>16-2
-</title>
+                    <title>16-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>16-2
-</itunes:summary>
-                    <description>16-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/16-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>16-2
-</guid>
+                    <itunes:summary>16-2</itunes:summary>
+                    <description>16-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/16-2_.MP3" type="audio/mpeg"/>
+                    <guid>16-2</guid>
+                    <pubDate>Sun, 10 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 32 -->
                 <item>
-                    <title>17-1
-</title>
+                    <title>17-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>17-1
-</itunes:summary>
-                    <description>17-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/17-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>17-1
-</guid>
+                    <itunes:summary>17-1</itunes:summary>
+                    <description>17-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/17-1_.MP3" type="audio/mpeg"/>
+                    <guid>17-1</guid>
+                    <pubDate>Mon, 11 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 33 -->
                 <item>
-                    <title>17-2
-</title>
+                    <title>17-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>17-2
-</itunes:summary>
-                    <description>17-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/17-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>17-2
-</guid>
+                    <itunes:summary>17-2</itunes:summary>
+                    <description>17-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/17-2_.MP3" type="audio/mpeg"/>
+                    <guid>17-2</guid>
+                    <pubDate>Tue, 12 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 34 -->
                 <item>
-                    <title>18-1
-</title>
+                    <title>18-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>18-1
-</itunes:summary>
-                    <description>18-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/18-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>18-1
-</guid>
+                    <itunes:summary>18-1</itunes:summary>
+                    <description>18-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/18-1_.MP3" type="audio/mpeg"/>
+                    <guid>18-1</guid>
+                    <pubDate>Wed, 13 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 35 -->
                 <item>
-                    <title>19-1
-</title>
+                    <title>19-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>19-1
-</itunes:summary>
-                    <description>19-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/19-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>19-1
-</guid>
+                    <itunes:summary>19-1</itunes:summary>
+                    <description>19-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/19-1_.MP3" type="audio/mpeg"/>
+                    <guid>19-1</guid>
+                    <pubDate>Thu, 14 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 36 -->
                 <item>
-                    <title>20-1
-</title>
+                    <title>20-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>20-1
-</itunes:summary>
-                    <description>20-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/20-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>20-1
-</guid>
+                    <itunes:summary>20-1</itunes:summary>
+                    <description>20-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/20-1_.MP3" type="audio/mpeg"/>
+                    <guid>20-1</guid>
+                    <pubDate>Fri, 15 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 37 -->
                 <item>
-                    <title>21-1
-</title>
+                    <title>21-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>21-1
-</itunes:summary>
-                    <description>21-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/21-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>21-1
-</guid>
+                    <itunes:summary>21-1</itunes:summary>
+                    <description>21-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/21-1_.MP3" type="audio/mpeg"/>
+                    <guid>21-1</guid>
+                    <pubDate>Sat, 16 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 38 -->
                 <item>
-                    <title>22-1
-</title>
+                    <title>22-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>22-1
-</itunes:summary>
-                    <description>22-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/22-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>22-1
-</guid>
+                    <itunes:summary>22-1</itunes:summary>
+                    <description>22-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/22-1_.MP3" type="audio/mpeg"/>
+                    <guid>22-1</guid>
+                    <pubDate>Sun, 17 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 39 -->
                 <item>
-                    <title>22-2
-</title>
+                    <title>22-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>22-2
-</itunes:summary>
-                    <description>22-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/22-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>22-2
-</guid>
+                    <itunes:summary>22-2</itunes:summary>
+                    <description>22-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/22-2_.MP3" type="audio/mpeg"/>
+                    <guid>22-2</guid>
+                    <pubDate>Mon, 18 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 40 -->
                 <item>
-                    <title>23-1
-</title>
+                    <title>23-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>23-1
-</itunes:summary>
-                    <description>23-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/23-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>23-1
-</guid>
+                    <itunes:summary>23-1</itunes:summary>
+                    <description>23-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/23-1_.MP3" type="audio/mpeg"/>
+                    <guid>23-1</guid>
+                    <pubDate>Tue, 19 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 41 -->
                 <item>
-                    <title>24-1
-</title>
+                    <title>24-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>24-1
-</itunes:summary>
-                    <description>24-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/24-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>24-1
-</guid>
+                    <itunes:summary>24-1</itunes:summary>
+                    <description>24-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/24-1_.MP3" type="audio/mpeg"/>
+                    <guid>24-1</guid>
+                    <pubDate>Wed, 20 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 42 -->
                 <item>
-                    <title>25-1
-</title>
+                    <title>25-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>25-1
-</itunes:summary>
-                    <description>25-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/25-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>25-1
-</guid>
+                    <itunes:summary>25-1</itunes:summary>
+                    <description>25-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/25-1_.MP3" type="audio/mpeg"/>
+                    <guid>25-1</guid>
+                    <pubDate>Thu, 21 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 43 -->
                 <item>
-                    <title>26-1
-</title>
+                    <title>26-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>26-1
-</itunes:summary>
-                    <description>26-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/26-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>26-1
-</guid>
+                    <itunes:summary>26-1</itunes:summary>
+                    <description>26-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/26-1_.MP3" type="audio/mpeg"/>
+                    <guid>26-1</guid>
+                    <pubDate>Fri, 22 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 44 -->
                 <item>
-                    <title>27-1
-</title>
+                    <title>27-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>27-1
-</itunes:summary>
-                    <description>27-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/27-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>27-1
-</guid>
+                    <itunes:summary>27-1</itunes:summary>
+                    <description>27-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/27-1_.MP3" type="audio/mpeg"/>
+                    <guid>27-1</guid>
+                    <pubDate>Sat, 23 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 45 -->
                 <item>
-                    <title>28-1
-</title>
+                    <title>28-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>28-1
-</itunes:summary>
-                    <description>28-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/28-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>28-1
-</guid>
+                    <itunes:summary>28-1</itunes:summary>
+                    <description>28-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/28-1_.MP3" type="audio/mpeg"/>
+                    <guid>28-1</guid>
+                    <pubDate>Sun, 24 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 46 -->
                 <item>
-                    <title>29-1
-</title>
+                    <title>29-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>29-1
-</itunes:summary>
-                    <description>29-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/29-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>29-1
-</guid>
+                    <itunes:summary>29-1</itunes:summary>
+                    <description>29-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/29-1_.MP3" type="audio/mpeg"/>
+                    <guid>29-1</guid>
+                    <pubDate>Mon, 25 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 47 -->
                 <item>
-                    <title>29-2
-</title>
+                    <title>29-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>29-2
-</itunes:summary>
-                    <description>29-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/29-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>29-2
-</guid>
+                    <itunes:summary>29-2</itunes:summary>
+                    <description>29-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/29-2_.MP3" type="audio/mpeg"/>
+                    <guid>29-2</guid>
+                    <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 48 -->
                 <item>
-                    <title>30-1
-</title>
+                    <title>30-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>30-1
-</itunes:summary>
-                    <description>30-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/30-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>30-1
-</guid>
+                    <itunes:summary>30-1</itunes:summary>
+                    <description>30-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/30-1_.MP3" type="audio/mpeg"/>
+                    <guid>30-1</guid>
+                    <pubDate>Wed, 27 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 49 -->
                 <item>
-                    <title>30-2
-</title>
+                    <title>30-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>30-2
-</itunes:summary>
-                    <description>30-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/30-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>30-2
-</guid>
+                    <itunes:summary>30-2</itunes:summary>
+                    <description>30-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/30-2_.MP3" type="audio/mpeg"/>
+                    <guid>30-2</guid>
+                    <pubDate>Thu, 28 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 50 -->
                 <item>
-                    <title>31-1
-</title>
+                    <title>31-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>31-1
-</itunes:summary>
-                    <description>31-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/31-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>31-1
-</guid>
+                    <itunes:summary>31-1</itunes:summary>
+                    <description>31-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/31-1_.MP3" type="audio/mpeg"/>
+                    <guid>31-1</guid>
+                    <pubDate>Fri, 29 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 51 -->
                 <item>
-                    <title>31-2
-</title>
+                    <title>31-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>31-2
-</itunes:summary>
-                    <description>31-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/31-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>31-2
-</guid>
+                    <itunes:summary>31-2</itunes:summary>
+                    <description>31-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/31-2_.MP3" type="audio/mpeg"/>
+                    <guid>31-2</guid>
+                    <pubDate>Sat, 30 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 52 -->
                 <item>
-                    <title>32-1
-</title>
+                    <title>32-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>32-1
-</itunes:summary>
-                    <description>32-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/32-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>32-1
-</guid>
+                    <itunes:summary>32-1</itunes:summary>
+                    <description>32-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/32-1_.MP3" type="audio/mpeg"/>
+                    <guid>32-1</guid>
+                    <pubDate>Sun, 31 Aug 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 53 -->
                 <item>
-                    <title>32-2
-</title>
+                    <title>32-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>32-2
-</itunes:summary>
-                    <description>32-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/32-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>32-2
-</guid>
+                    <itunes:summary>32-2</itunes:summary>
+                    <description>32-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/32-2_.MP3" type="audio/mpeg"/>
+                    <guid>32-2</guid>
+                    <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 54 -->
                 <item>
-                    <title>33-1
-</title>
+                    <title>33-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>33-1
-</itunes:summary>
-                    <description>33-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/33-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>33-1
-</guid>
+                    <itunes:summary>33-1</itunes:summary>
+                    <description>33-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/33-1_.MP3" type="audio/mpeg"/>
+                    <guid>33-1</guid>
+                    <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 55 -->
                 <item>
-                    <title>33-2
-</title>
+                    <title>33-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>33-2
-</itunes:summary>
-                    <description>33-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/33-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>33-2
-</guid>
+                    <itunes:summary>33-2</itunes:summary>
+                    <description>33-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/33-2_.MP3" type="audio/mpeg"/>
+                    <guid>33-2</guid>
+                    <pubDate>Wed, 03 Sep 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 56 -->
                 <item>
-                    <title>34-1
-</title>
+                    <title>34-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>34-1
-</itunes:summary>
-                    <description>34-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/34-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>34-1
-</guid>
+                    <itunes:summary>34-1</itunes:summary>
+                    <description>34-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/34-1_.MP3" type="audio/mpeg"/>
+                    <guid>34-1</guid>
+                    <pubDate>Thu, 04 Sep 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 57 -->
                 <item>
-                    <title>34-2
-</title>
+                    <title>34-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>34-2
-</itunes:summary>
-                    <description>34-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/34-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>34-2
-</guid>
+                    <itunes:summary>34-2</itunes:summary>
+                    <description>34-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/34-2_.MP3" type="audio/mpeg"/>
+                    <guid>34-2</guid>
+                    <pubDate>Fri, 05 Sep 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 58 -->
                 <item>
-                    <title>35-1
-</title>
+                    <title>35-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>35-1
-</itunes:summary>
-                    <description>35-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/35-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>35-1
-</guid>
+                    <itunes:summary>35-1</itunes:summary>
+                    <description>35-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/35-1_.MP3" type="audio/mpeg"/>
+                    <guid>35-1</guid>
+                    <pubDate>Sat, 06 Sep 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 59 -->
                 <item>
-                    <title>35-2
-</title>
+                    <title>35-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>35-2
-</itunes:summary>
-                    <description>35-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/35-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>35-2
-</guid>
+                    <itunes:summary>35-2</itunes:summary>
+                    <description>35-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/35-2_.MP3" type="audio/mpeg"/>
+                    <guid>35-2</guid>
+                    <pubDate>Sun, 07 Sep 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 60 -->
                 <item>
-                    <title>36-1
-</title>
+                    <title>36-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>36-1
-</itunes:summary>
-                    <description>36-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/36-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>36-1
-</guid>
+                    <itunes:summary>36-1</itunes:summary>
+                    <description>36-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/36-1_.MP3" type="audio/mpeg"/>
+                    <guid>36-1</guid>
+                    <pubDate>Mon, 08 Sep 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 61 -->
                 <item>
-                    <title>36-2
-</title>
+                    <title>36-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>36-2
-</itunes:summary>
-                    <description>36-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/36-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>36-2
-</guid>
+                    <itunes:summary>36-2</itunes:summary>
+                    <description>36-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/36-2_.MP3" type="audio/mpeg"/>
+                    <guid>36-2</guid>
+                    <pubDate>Tue, 09 Sep 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 62 -->
                 <item>
-                    <title>37-1
-</title>
+                    <title>37-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>37-1
-</itunes:summary>
-                    <description>37-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/37-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>37-1
-</guid>
+                    <itunes:summary>37-1</itunes:summary>
+                    <description>37-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/37-1_.MP3" type="audio/mpeg"/>
+                    <guid>37-1</guid>
+                    <pubDate>Wed, 10 Sep 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 63 -->
                 <item>
-                    <title>37-2
-</title>
+                    <title>37-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>37-2
-</itunes:summary>
-                    <description>37-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/37-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>37-2
-</guid>
+                    <itunes:summary>37-2</itunes:summary>
+                    <description>37-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/37-2_.MP3" type="audio/mpeg"/>
+                    <guid>37-2</guid>
+                    <pubDate>Thu, 11 Sep 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 64 -->
                 <item>
-                    <title>38-1
-</title>
+                    <title>38-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>38-1
-</itunes:summary>
-                    <description>38-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/38-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>38-1
-</guid>
+                    <itunes:summary>38-1</itunes:summary>
+                    <description>38-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/38-1_.MP3" type="audio/mpeg"/>
+                    <guid>38-1</guid>
+                    <pubDate>Fri, 12 Sep 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 65 -->
                 <item>
-                    <title>38-2
-</title>
+                    <title>38-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>38-2
-</itunes:summary>
-                    <description>38-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/38-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>38-2
-</guid>
+                    <itunes:summary>38-2</itunes:summary>
+                    <description>38-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/38-2_.MP3" type="audio/mpeg"/>
+                    <guid>38-2</guid>
+                    <pubDate>Sat, 13 Sep 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 66 -->
                 <item>
-                    <title>39-1
-</title>
+                    <title>39-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>39-1
-</itunes:summary>
-                    <description>39-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/39-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>39-1
-</guid>
+                    <itunes:summary>39-1</itunes:summary>
+                    <description>39-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/39-1_.MP3" type="audio/mpeg"/>
+                    <guid>39-1</guid>
+                    <pubDate>Sun, 14 Sep 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 67 -->
                 <item>
-                    <title>39-2
-</title>
+                    <title>39-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>39-2
-</itunes:summary>
-                    <description>39-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/39-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>39-2
-</guid>
+                    <itunes:summary>39-2</itunes:summary>
+                    <description>39-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/39-2_.MP3" type="audio/mpeg"/>
+                    <guid>39-2</guid>
+                    <pubDate>Mon, 15 Sep 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 68 -->
                 <item>
-                    <title>40-1
-</title>
+                    <title>40-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>40-1
-</itunes:summary>
-                    <description>40-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/40-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>40-1
-</guid>
+                    <itunes:summary>40-1</itunes:summary>
+                    <description>40-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/40-1_.MP3" type="audio/mpeg"/>
+                    <guid>40-1</guid>
+                    <pubDate>Tue, 16 Sep 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 69 -->
                 <item>
-                    <title>40-2
-</title>
+                    <title>40-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>40-2
-</itunes:summary>
-                    <description>40-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/40-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>40-2
-</guid>
+                    <itunes:summary>40-2</itunes:summary>
+                    <description>40-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/40-2_.MP3" type="audio/mpeg"/>
+                    <guid>40-2</guid>
+                    <pubDate>Wed, 17 Sep 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 70 -->
                 <item>
-                    <title>41-1
-</title>
+                    <title>41-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>41-1
-</itunes:summary>
-                    <description>41-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/41-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>41-1
-</guid>
+                    <itunes:summary>41-1</itunes:summary>
+                    <description>41-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/41-1_.MP3" type="audio/mpeg"/>
+                    <guid>41-1</guid>
+                    <pubDate>Thu, 18 Sep 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 71 -->
                 <item>
-                    <title>41-2
-</title>
+                    <title>41-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>41-2
-</itunes:summary>
-                    <description>41-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/41-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>41-2
-</guid>
+                    <itunes:summary>41-2</itunes:summary>
+                    <description>41-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/41-2_.MP3" type="audio/mpeg"/>
+                    <guid>41-2</guid>
+                    <pubDate>Fri, 19 Sep 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 72 -->
                 <item>
-                    <title>42-1
-</title>
+                    <title>42-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>42-1
-</itunes:summary>
-                    <description>42-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/42-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>42-1
-</guid>
+                    <itunes:summary>42-1</itunes:summary>
+                    <description>42-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/42-1_.MP3" type="audio/mpeg"/>
+                    <guid>42-1</guid>
+                    <pubDate>Sat, 20 Sep 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 73 -->
                 <item>
-                    <title>42-2
-</title>
+                    <title>42-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>42-2
-</itunes:summary>
-                    <description>42-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/42-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>42-2
-</guid>
+                    <itunes:summary>42-2</itunes:summary>
+                    <description>42-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/42-2_.MP3" type="audio/mpeg"/>
+                    <guid>42-2</guid>
+                    <pubDate>Sun, 21 Sep 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 74 -->
                 <item>
-                    <title>43-1
-</title>
+                    <title>43-1</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>43-1
-</itunes:summary>
-                    <description>43-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/43-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>43-1
-</guid>
+                    <itunes:summary>43-1</itunes:summary>
+                    <description>43-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/43-1_.MP3" type="audio/mpeg"/>
+                    <guid>43-1</guid>
+                    <pubDate>Mon, 22 Sep 2008 00:00:00 +0000</pubDate>
                 </item>
         
 
                 <!-- Episode 75 -->
                 <item>
-                    <title>43-2
-</title>
+                    <title>43-2</title>
                     <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>43-2
-</itunes:summary>
-                    <description>43-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/43-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>43-2
-</guid>
-                </item>
-        
-
-                <!-- Episode 76 -->
-                <item>
-                    <title>44-1
-</title>
-                    <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>44-1
-</itunes:summary>
-                    <description>44-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/44-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>44-1
-</guid>
-                </item>
-        
-
-                <!-- Episode 77 -->
-                <item>
-                    <title>44-2
-</title>
-                    <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>44-2
-</itunes:summary>
-                    <description>44-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/44-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>44-2
-</guid>
-                </item>
-        
-
-                <!-- Episode 78 -->
-                <item>
-                    <title>45-1
-</title>
-                    <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>45-1
-</itunes:summary>
-                    <description>45-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/45-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>45-1
-</guid>
-                </item>
-        
-
-                <!-- Episode 79 -->
-                <item>
-                    <title>45-2
-</title>
-                    <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>45-2
-</itunes:summary>
-                    <description>45-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/45-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>45-2
-</guid>
-                </item>
-        
-
-                <!-- Episode 80 -->
-                <item>
-                    <title>46-1
-</title>
-                    <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>46-1
-</itunes:summary>
-                    <description>46-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/46-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>46-1
-</guid>
-                </item>
-        
-
-                <!-- Episode 81 -->
-                <item>
-                    <title>46-2
-</title>
-                    <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>46-2
-</itunes:summary>
-                    <description>46-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/46-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>46-2
-</guid>
-                </item>
-        
-
-                <!-- Episode 82 -->
-                <item>
-                    <title>47-1
-</title>
-                    <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>47-1
-</itunes:summary>
-                    <description>47-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/47-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>47-1
-</guid>
-                </item>
-        
-
-                <!-- Episode 83 -->
-                <item>
-                    <title>47-2
-</title>
-                    <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>47-2
-</itunes:summary>
-                    <description>47-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/47-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>47-2
-</guid>
-                </item>
-        
-
-                <!-- Episode 84 -->
-                <item>
-                    <title>48-1
-</title>
-                    <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>48-1
-</itunes:summary>
-                    <description>48-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/48-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>48-1
-</guid>
-                </item>
-        
-
-                <!-- Episode 85 -->
-                <item>
-                    <title>48-2
-</title>
-                    <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>48-2
-</itunes:summary>
-                    <description>48-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/48-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>48-2
-</guid>
-                </item>
-        
-
-                <!-- Episode 86 -->
-                <item>
-                    <title>49-1
-</title>
-                    <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>49-1
-</itunes:summary>
-                    <description>49-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/49-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>49-1
-</guid>
-                </item>
-        
-
-                <!-- Episode 87 -->
-                <item>
-                    <title>49-2
-</title>
-                    <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>49-2
-</itunes:summary>
-                    <description>49-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/49-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>49-2
-</guid>
-                </item>
-        
-
-                <!-- Episode 88 -->
-                <item>
-                    <title>50-1
-</title>
-                    <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>50-1
-</itunes:summary>
-                    <description>50-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/50-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>50-1
-</guid>
-                </item>
-        
-
-                <!-- Episode 89 -->
-                <item>
-                    <title>50-2
-</title>
-                    <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>50-2
-</itunes:summary>
-                    <description>50-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/50-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>50-2
-</guid>
-                </item>
-        
-
-                <!-- Episode 90 -->
-                <item>
-                    <title>51-1
-</title>
-                    <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>51-1
-</itunes:summary>
-                    <description>51-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/51-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>51-1
-</guid>
-                </item>
-        
-
-                <!-- Episode 91 -->
-                <item>
-                    <title>51-2
-</title>
-                    <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>51-2
-</itunes:summary>
-                    <description>51-2
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/51-2_.MP3
-" type="audio/mpeg"/>
-                    <guid>51-2
-</guid>
-                </item>
-        
-
-                <!-- Episode 92 -->
-                <item>
-                    <title>52-1
-</title>
-                    <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>52-1
-</itunes:summary>
-                    <description>52-1
-</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/52-1_.MP3
-" type="audio/mpeg"/>
-                    <guid>52-1
-</guid>
-                </item>
-        
-
-                <!-- Episode 93 -->
-                <item>
-                    <title>52-2</title>
-                    <itunes:author>길벗 이지톡</itunes:author>
-                    <itunes:summary>52-2</itunes:summary>
-                    <description>52-2</description>
-                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/52-2_.MP3" type="audio/mpeg"/>
-                    <guid>52-2</guid>
+                    <itunes:summary>43-2</itunes:summary>
+                    <description>43-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BC004152/43-2_.MP3" type="audio/mpeg"/>
+                    <guid>43-2</guid>
+                    <pubDate>Tue, 23 Sep 2008 00:00:00 +0000</pubDate>
                 </item>
 
     </channel>
