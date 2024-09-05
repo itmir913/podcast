@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>일본어 무작정 따라하기 완전판(강의)</title>
+        <link>https://www.gilbut.co.kr/book/view?bookcode=BN003460</link>
+        <language>ko-kr</language>
+        <itunes:author>길벗 이지톡</itunes:author>
+        <itunes:summary>일본어 무작정 따라하기 완전판 강의</itunes:summary>
+        <description>일본어 무작정 따라하기 완전판 강의</description>
+        <itunes:category text="Education">
+            <itunes:category text="Language Courses"/>
+        </itunes:category>
+        <itunes:image href="https://gimg.gilbut.co.kr/book/BN003460/rn_view_BN003460.jpg" />
+        <itunes:explicit>no</itunes:explicit>
+
+                <!-- Episode 1 -->
+                <item>
+                    <title>L00.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L00.MP3</itunes:summary>
+                    <description>L00.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L00.MP3" type="audio/mpeg"/>
+                    <guid>L00.MP3</guid>
+                    <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 2 -->
+                <item>
+                    <title>L01.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L01.MP3</itunes:summary>
+                    <description>L01.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L01.MP3" type="audio/mpeg"/>
+                    <guid>L01.MP3</guid>
+                    <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 3 -->
+                <item>
+                    <title>L02.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L02.MP3</itunes:summary>
+                    <description>L02.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L02.MP3" type="audio/mpeg"/>
+                    <guid>L02.MP3</guid>
+                    <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 4 -->
+                <item>
+                    <title>L03.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L03.MP3</itunes:summary>
+                    <description>L03.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L03.MP3" type="audio/mpeg"/>
+                    <guid>L03.MP3</guid>
+                    <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 5 -->
+                <item>
+                    <title>L04.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L04.MP3</itunes:summary>
+                    <description>L04.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L04.MP3" type="audio/mpeg"/>
+                    <guid>L04.MP3</guid>
+                    <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 6 -->
+                <item>
+                    <title>L05.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L05.MP3</itunes:summary>
+                    <description>L05.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L05.MP3" type="audio/mpeg"/>
+                    <guid>L05.MP3</guid>
+                    <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 7 -->
+                <item>
+                    <title>L06.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L06.MP3</itunes:summary>
+                    <description>L06.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L06.MP3" type="audio/mpeg"/>
+                    <guid>L06.MP3</guid>
+                    <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 8 -->
+                <item>
+                    <title>L07.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L07.MP3</itunes:summary>
+                    <description>L07.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L07.MP3" type="audio/mpeg"/>
+                    <guid>L07.MP3</guid>
+                    <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 9 -->
+                <item>
+                    <title>L08.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L08.MP3</itunes:summary>
+                    <description>L08.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L08.MP3" type="audio/mpeg"/>
+                    <guid>L08.MP3</guid>
+                    <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 10 -->
+                <item>
+                    <title>L09.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L09.MP3</itunes:summary>
+                    <description>L09.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L09.MP3" type="audio/mpeg"/>
+                    <guid>L09.MP3</guid>
+                    <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 11 -->
+                <item>
+                    <title>L10.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L10.MP3</itunes:summary>
+                    <description>L10.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L10.MP3" type="audio/mpeg"/>
+                    <guid>L10.MP3</guid>
+                    <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 12 -->
+                <item>
+                    <title>L11.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L11.MP3</itunes:summary>
+                    <description>L11.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L11.MP3" type="audio/mpeg"/>
+                    <guid>L11.MP3</guid>
+                    <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 13 -->
+                <item>
+                    <title>L12.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L12.MP3</itunes:summary>
+                    <description>L12.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L12.MP3" type="audio/mpeg"/>
+                    <guid>L12.MP3</guid>
+                    <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 14 -->
+                <item>
+                    <title>L13.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L13.MP3</itunes:summary>
+                    <description>L13.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L13.MP3" type="audio/mpeg"/>
+                    <guid>L13.MP3</guid>
+                    <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 15 -->
+                <item>
+                    <title>L14.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L14.MP3</itunes:summary>
+                    <description>L14.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L14.MP3" type="audio/mpeg"/>
+                    <guid>L14.MP3</guid>
+                    <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 16 -->
+                <item>
+                    <title>L15.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L15.MP3</itunes:summary>
+                    <description>L15.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L15.MP3" type="audio/mpeg"/>
+                    <guid>L15.MP3</guid>
+                    <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 17 -->
+                <item>
+                    <title>L16.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L16.MP3</itunes:summary>
+                    <description>L16.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L16.MP3" type="audio/mpeg"/>
+                    <guid>L16.MP3</guid>
+                    <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 18 -->
+                <item>
+                    <title>L17.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L17.MP3</itunes:summary>
+                    <description>L17.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L17.MP3" type="audio/mpeg"/>
+                    <guid>L17.MP3</guid>
+                    <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 19 -->
+                <item>
+                    <title>L18.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L18.MP3</itunes:summary>
+                    <description>L18.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L18.MP3" type="audio/mpeg"/>
+                    <guid>L18.MP3</guid>
+                    <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 20 -->
+                <item>
+                    <title>L19.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L19.MP3</itunes:summary>
+                    <description>L19.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L19.MP3" type="audio/mpeg"/>
+                    <guid>L19.MP3</guid>
+                    <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 21 -->
+                <item>
+                    <title>L20.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L20.MP3</itunes:summary>
+                    <description>L20.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L20.MP3" type="audio/mpeg"/>
+                    <guid>L20.MP3</guid>
+                    <pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 22 -->
+                <item>
+                    <title>L21.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L21.MP3</itunes:summary>
+                    <description>L21.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L21.MP3" type="audio/mpeg"/>
+                    <guid>L21.MP3</guid>
+                    <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 23 -->
+                <item>
+                    <title>L22.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L22.MP3</itunes:summary>
+                    <description>L22.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L22.MP3" type="audio/mpeg"/>
+                    <guid>L22.MP3</guid>
+                    <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 24 -->
+                <item>
+                    <title>L23.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L23.MP3</itunes:summary>
+                    <description>L23.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L23.MP3" type="audio/mpeg"/>
+                    <guid>L23.MP3</guid>
+                    <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 25 -->
+                <item>
+                    <title>L24.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L24.MP3</itunes:summary>
+                    <description>L24.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L24.MP3" type="audio/mpeg"/>
+                    <guid>L24.MP3</guid>
+                    <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 26 -->
+                <item>
+                    <title>L25.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L25.MP3</itunes:summary>
+                    <description>L25.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L25.MP3" type="audio/mpeg"/>
+                    <guid>L25.MP3</guid>
+                    <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 27 -->
+                <item>
+                    <title>L26.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L26.MP3</itunes:summary>
+                    <description>L26.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L26.MP3" type="audio/mpeg"/>
+                    <guid>L26.MP3</guid>
+                    <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 28 -->
+                <item>
+                    <title>L27.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L27.MP3</itunes:summary>
+                    <description>L27.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L27.MP3" type="audio/mpeg"/>
+                    <guid>L27.MP3</guid>
+                    <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 29 -->
+                <item>
+                    <title>L28.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L28.MP3</itunes:summary>
+                    <description>L28.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L28.MP3" type="audio/mpeg"/>
+                    <guid>L28.MP3</guid>
+                    <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 30 -->
+                <item>
+                    <title>L29.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L29.MP3</itunes:summary>
+                    <description>L29.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L29.MP3" type="audio/mpeg"/>
+                    <guid>L29.MP3</guid>
+                    <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 31 -->
+                <item>
+                    <title>L30.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L30.MP3</itunes:summary>
+                    <description>L30.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L30.MP3" type="audio/mpeg"/>
+                    <guid>L30.MP3</guid>
+                    <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 32 -->
+                <item>
+                    <title>L31.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L31.MP3</itunes:summary>
+                    <description>L31.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L31.MP3" type="audio/mpeg"/>
+                    <guid>L31.MP3</guid>
+                    <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 33 -->
+                <item>
+                    <title>L32.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L32.MP3</itunes:summary>
+                    <description>L32.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L32.MP3" type="audio/mpeg"/>
+                    <guid>L32.MP3</guid>
+                    <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 34 -->
+                <item>
+                    <title>L33.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L33.MP3</itunes:summary>
+                    <description>L33.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L33.MP3" type="audio/mpeg"/>
+                    <guid>L33.MP3</guid>
+                    <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 35 -->
+                <item>
+                    <title>L34.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L34.MP3</itunes:summary>
+                    <description>L34.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L34.MP3" type="audio/mpeg"/>
+                    <guid>L34.MP3</guid>
+                    <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 36 -->
+                <item>
+                    <title>L35.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L35.MP3</itunes:summary>
+                    <description>L35.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L35.MP3" type="audio/mpeg"/>
+                    <guid>L35.MP3</guid>
+                    <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 37 -->
+                <item>
+                    <title>L36.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L36.MP3</itunes:summary>
+                    <description>L36.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L36.MP3" type="audio/mpeg"/>
+                    <guid>L36.MP3</guid>
+                    <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 38 -->
+                <item>
+                    <title>L37.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L37.MP3</itunes:summary>
+                    <description>L37.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L37.MP3" type="audio/mpeg"/>
+                    <guid>L37.MP3</guid>
+                    <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 39 -->
+                <item>
+                    <title>L38.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L38.MP3</itunes:summary>
+                    <description>L38.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L38.MP3" type="audio/mpeg"/>
+                    <guid>L38.MP3</guid>
+                    <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 40 -->
+                <item>
+                    <title>L39.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L39.MP3</itunes:summary>
+                    <description>L39.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L39.MP3" type="audio/mpeg"/>
+                    <guid>L39.MP3</guid>
+                    <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 41 -->
+                <item>
+                    <title>L40.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L40.MP3</itunes:summary>
+                    <description>L40.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L40.MP3" type="audio/mpeg"/>
+                    <guid>L40.MP3</guid>
+                    <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 42 -->
+                <item>
+                    <title>L41.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L41.MP3</itunes:summary>
+                    <description>L41.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L41.MP3" type="audio/mpeg"/>
+                    <guid>L41.MP3</guid>
+                    <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 43 -->
+                <item>
+                    <title>L42.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L42.MP3</itunes:summary>
+                    <description>L42.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L42.MP3" type="audio/mpeg"/>
+                    <guid>L42.MP3</guid>
+                    <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 44 -->
+                <item>
+                    <title>L43.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L43.MP3</itunes:summary>
+                    <description>L43.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L43.MP3" type="audio/mpeg"/>
+                    <guid>L43.MP3</guid>
+                    <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 45 -->
+                <item>
+                    <title>L44.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L44.MP3</itunes:summary>
+                    <description>L44.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L44.MP3" type="audio/mpeg"/>
+                    <guid>L44.MP3</guid>
+                    <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 46 -->
+                <item>
+                    <title>L45.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L45.MP3</itunes:summary>
+                    <description>L45.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L45.MP3" type="audio/mpeg"/>
+                    <guid>L45.MP3</guid>
+                    <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 47 -->
+                <item>
+                    <title>L46.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L46.MP3</itunes:summary>
+                    <description>L46.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L46.MP3" type="audio/mpeg"/>
+                    <guid>L46.MP3</guid>
+                    <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 48 -->
+                <item>
+                    <title>L47.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L47.MP3</itunes:summary>
+                    <description>L47.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L47.MP3" type="audio/mpeg"/>
+                    <guid>L47.MP3</guid>
+                    <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 49 -->
+                <item>
+                    <title>L48.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L48.MP3</itunes:summary>
+                    <description>L48.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L48.MP3" type="audio/mpeg"/>
+                    <guid>L48.MP3</guid>
+                    <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 50 -->
+                <item>
+                    <title>L49.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L49.MP3</itunes:summary>
+                    <description>L49.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L49.MP3" type="audio/mpeg"/>
+                    <guid>L49.MP3</guid>
+                    <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 51 -->
+                <item>
+                    <title>L50.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L50.MP3</itunes:summary>
+                    <description>L50.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L50.MP3" type="audio/mpeg"/>
+                    <guid>L50.MP3</guid>
+                    <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 52 -->
+                <item>
+                    <title>L51.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L51.MP3</itunes:summary>
+                    <description>L51.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L51.MP3" type="audio/mpeg"/>
+                    <guid>L51.MP3</guid>
+                    <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 53 -->
+                <item>
+                    <title>L52.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L52.MP3</itunes:summary>
+                    <description>L52.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L52.MP3" type="audio/mpeg"/>
+                    <guid>L52.MP3</guid>
+                    <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 54 -->
+                <item>
+                    <title>L53.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L53.MP3</itunes:summary>
+                    <description>L53.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L53.MP3" type="audio/mpeg"/>
+                    <guid>L53.MP3</guid>
+                    <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 55 -->
+                <item>
+                    <title>L54.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L54.MP3</itunes:summary>
+                    <description>L54.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L54.MP3" type="audio/mpeg"/>
+                    <guid>L54.MP3</guid>
+                    <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 56 -->
+                <item>
+                    <title>L55.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L55.MP3</itunes:summary>
+                    <description>L55.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L55.MP3" type="audio/mpeg"/>
+                    <guid>L55.MP3</guid>
+                    <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 57 -->
+                <item>
+                    <title>L56.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L56.MP3</itunes:summary>
+                    <description>L56.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L56.MP3" type="audio/mpeg"/>
+                    <guid>L56.MP3</guid>
+                    <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 58 -->
+                <item>
+                    <title>L57.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L57.MP3</itunes:summary>
+                    <description>L57.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L57.MP3" type="audio/mpeg"/>
+                    <guid>L57.MP3</guid>
+                    <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 59 -->
+                <item>
+                    <title>L58.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L58.MP3</itunes:summary>
+                    <description>L58.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L58.MP3" type="audio/mpeg"/>
+                    <guid>L58.MP3</guid>
+                    <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 60 -->
+                <item>
+                    <title>L59.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L59.MP3</itunes:summary>
+                    <description>L59.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L59.MP3" type="audio/mpeg"/>
+                    <guid>L59.MP3</guid>
+                    <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 61 -->
+                <item>
+                    <title>L60.MP3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>L60.MP3</itunes:summary>
+                    <description>L60.MP3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/L60.MP3" type="audio/mpeg"/>
+                    <guid>L60.MP3</guid>
+                    <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+                </item>
+
+    </channel>
+</rss>
