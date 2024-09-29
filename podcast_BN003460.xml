@@ -5135,5 +5135,208 @@
                     <pubDate>Fri, 21 Oct 2022 06:00:00 +0000</pubDate>
                 </item>
 
+                <!-- Episode 1 -->
+                <item>
+                    <title>부록 A01-1</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>A01-1</itunes:summary>
+                    <description>A01-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/A01-1.MP3" type="audio/mpeg"/>
+                    <guid>A01-1</guid>
+                    <pubDate>Sat, 22 Oct 2022 01:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 2 -->
+                <item>
+                    <title>부록 A01-2</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>A01-2</itunes:summary>
+                    <description>A01-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/A01-2.MP3" type="audio/mpeg"/>
+                    <guid>A01-2</guid>
+                    <pubDate>Sat, 22 Oct 2022 02:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 3 -->
+                <item>
+                    <title>부록 A03-1</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>A03-1</itunes:summary>
+                    <description>A03-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/A03-1.MP3" type="audio/mpeg"/>
+                    <guid>A03-1</guid>
+                    <pubDate>Sat, 22 Oct 2022 03:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 4 -->
+                <item>
+                    <title>부록 A03-2</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>A03-2</itunes:summary>
+                    <description>A03-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/A03-2.MP3" type="audio/mpeg"/>
+                    <guid>A03-2</guid>
+                    <pubDate>Sat, 22 Oct 2022 04:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 5 -->
+                <item>
+                    <title>부록 A03-3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>A03-3</itunes:summary>
+                    <description>A03-3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/A03-3.MP3" type="audio/mpeg"/>
+                    <guid>A03-3</guid>
+                    <pubDate>Sat, 22 Oct 2022 05:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 6 -->
+                <item>
+                    <title>부록 A03-4</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>A03-4</itunes:summary>
+                    <description>A03-4</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/A03-4.MP3" type="audio/mpeg"/>
+                    <guid>A03-4</guid>
+                    <pubDate>Sat, 22 Oct 2022 06:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 7 -->
+                <item>
+                    <title>부록 A03-5</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>A03-5</itunes:summary>
+                    <description>A03-5</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/A03-5.MP3" type="audio/mpeg"/>
+                    <guid>A03-5</guid>
+                    <pubDate>Sat, 22 Oct 2022 07:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 8 -->
+                <item>
+                    <title>부록 A03-6</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>A03-6</itunes:summary>
+                    <description>A03-6</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/A03-6.MP3" type="audio/mpeg"/>
+                    <guid>A03-6</guid>
+                    <pubDate>Sat, 22 Oct 2022 08:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 9 -->
+                <item>
+                    <title>부록 A03-7</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>A03-7</itunes:summary>
+                    <description>A03-7</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/A03-7.MP3" type="audio/mpeg"/>
+                    <guid>A03-7</guid>
+                    <pubDate>Sat, 22 Oct 2022 09:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 10 -->
+                <item>
+                    <title>부록 A04-1</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>A04-1</itunes:summary>
+                    <description>A04-1</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/A04-1.MP3" type="audio/mpeg"/>
+                    <guid>A04-1</guid>
+                    <pubDate>Sat, 22 Oct 2022 10:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 11 -->
+                <item>
+                    <title>부록 A04-2</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>A04-2</itunes:summary>
+                    <description>A04-2</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/A04-2.MP3" type="audio/mpeg"/>
+                    <guid>A04-2</guid>
+                    <pubDate>Sat, 22 Oct 2022 11:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 12 -->
+                <item>
+                    <title>부록 A04-3</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>A04-3</itunes:summary>
+                    <description>A04-3</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/A04-3.MP3" type="audio/mpeg"/>
+                    <guid>A04-3</guid>
+                    <pubDate>Sat, 22 Oct 2022 12:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 13 -->
+                <item>
+                    <title>부록 A04-4</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>A04-4</itunes:summary>
+                    <description>A04-4</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/A04-4.MP3" type="audio/mpeg"/>
+                    <guid>A04-4</guid>
+                    <pubDate>Sat, 22 Oct 2022 13:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 14 -->
+                <item>
+                    <title>부록 A04-5</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>A04-5</itunes:summary>
+                    <description>A04-5</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/A04-5.MP3" type="audio/mpeg"/>
+                    <guid>A04-5</guid>
+                    <pubDate>Sat, 22 Oct 2022 14:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 15 -->
+                <item>
+                    <title>부록 A04-6</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>A04-6</itunes:summary>
+                    <description>A04-6</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/A04-6.MP3" type="audio/mpeg"/>
+                    <guid>A04-6</guid>
+                    <pubDate>Sat, 22 Oct 2022 15:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 16 -->
+                <item>
+                    <title>부록 A04-7</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>A04-7</itunes:summary>
+                    <description>A04-7</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/A04-7.MP3" type="audio/mpeg"/>
+                    <guid>A04-7</guid>
+                    <pubDate>Sat, 22 Oct 2022 16:00:00 +0000</pubDate>
+                </item>
+        
+
+                <!-- Episode 17 -->
+                <item>
+                    <title>부록 A04-8</title>
+                    <itunes:author>길벗 이지톡</itunes:author>
+                    <itunes:summary>A04-8</itunes:summary>
+                    <description>A04-8</description>
+                    <enclosure url="https://gfile.gilbut.co.kr/gilbut/bookpds/PD01/BN003460/A04-8.MP3" type="audio/mpeg"/>
+                    <guid>A04-8</guid>
+                    <pubDate>Sat, 22 Oct 2022 17:00:00 +0000</pubDate>
+                </item>
+
     </channel>
 </rss>
